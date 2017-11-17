@@ -1,0 +1,36 @@
+... logging to /home/lucky/.ros/log/9fe90438-ad8a-11e7-bc84-408d5c0ff33e/roslaunch-lucky-B85-D3V-A-16533.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/lucky/workspace/launch/bag_orb_slam.launch
+[1mstarted roslaunch server http://lucky-B85-D3V-A:35452/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: indigo
+ * /rosversion: 1.11.21
+ * /slam2rgbd0/bag_of_word: /home/lucky/works...
+ * /slam2rgbd0/base_tf: /robot0_link
+ * /slam2rgbd0/config: /home/lucky/works...
+ * /slam2rgbd0/odom_tf: /odom
+ * /slam2rgbd0/ros: True
+ * /slam2rgbd0/use_gui: True
+ * /slam2rgbd0/world_tf: /map
+ * /slam2rgbd0/yolo_cfg: /home/lucky/MyLib...
+ * /slam2rgbd0/yolo_data: /home/lucky/MyLib...
+ * /slam2rgbd0/yolo_weight: /home/lucky/MyLib...
+
+NODES
+  /
+    slam2rgbd0 (orb_slam/RGBD)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/lucky/workspace/launch/bag_orb_slam.launch http://localhost:11311
+core service [/rosout] found
+[1mprocess[slam2rgbd0-1]: started with pid [16552][0m
+[slam2rgbd0-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

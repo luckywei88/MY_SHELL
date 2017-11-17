@@ -20,6 +20,7 @@ index=0
 
 for i in $result
 do
+	rm -rf /home/lucky/pcd/tmppcd/*
 	echo $index" "$i
 
 	if [ $input -lt 3 ]; then
