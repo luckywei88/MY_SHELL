@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Dir=/home/lucky/dataset/TUM/
+Dir=/home/lucky/dataset/my_dataset/
 Rgb=rgb.txt
 Dep=depth.txt
 Ass=associate.txt
@@ -10,10 +10,5 @@ result=$(ls $Dir)
 for i in $result
 do
 	Data=$Dir$i
-	Ground=${Data}/groundtruth.txt
-	if [ ! -f $Ground ]; then
-		echo $i
-		rm -rf $Data
-	fi
 	python associate.py $Data/$Rgb $Data/$Dep > $Data/$Ass
 done

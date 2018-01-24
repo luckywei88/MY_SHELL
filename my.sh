@@ -18,7 +18,7 @@ World=/map
 Base=/robot0_link
 Odom=/odom
 
-Dir=/home/lucky/dataset/TUM/
+Dir=/home/lucky/dataset/my_dataset/
 
 rm -rf /home/lucky/pcd/tmppcd/*
 
@@ -37,24 +37,15 @@ done
 echo "enter your chosen"
 read input
 
-if [ $input -lt 3 ]; then
-	n=1
-elif [ $input -lt 6 ]; then
-	n=2
-else
-	n=3
-fi
 
-Config=Freiburg${n}_low.yaml
-#Config=Freiburg${n}.yaml
+Config=xtion.yaml
 
 Data_Dir=$Dir${array[$input]}
 Associate=$Data_Dir/associate.txt
 
 $EXEC $Bg $Config $Yolo_Data $Yolo_Weight $Yolo_Cfg $Yolo_Label $World $Base $Odom $Data_Dir $Associate false true
 
-GroundTruth=$Data_Dir/groundtruth.txt
-python evaluate_ate1.py $GroundTruth CameraTrajectory.txt --plot evaluate.png --verbose > evaluate.txt
+python evaluate_ate1.py CameraTrajectory.txt CameraTrajectory.txt --plot evaluate.png --verbose > evaluate.txt
 
 cat evaluate.txt
 eog evaluate.png 
