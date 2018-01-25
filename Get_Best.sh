@@ -33,22 +33,57 @@ GetBest()
 	fi
 	local out=$outdir/best.txt
 	
-	local best=99.0
+	local bestrmse=99.0
 	local bestpic=""
+	local bestpair=0
 	for time in {1..5}
 	do
 		local tmp=$dir/$i/$time
-		local line=$(sed -n '3p' $tmp/evaluate.txt | awk '{print $2}')
-		local com=$(echo "$line < $best" |bc)
+		local rmse=$(sed -n '3p' $tmp/evaluate.txt | awk '{print $2}')
+		local pair=$(sed -n '1p' $tmp/evaluate.txt | awk '{print $2}')
+		local com=$(echo "$rmse < $bestrmse" |bc)
+		
 		if [ $com -eq 1 ]; then
-			best=$line
+			bestrmse=$rmse
 			bestpic=$tmp/evaluate.png
+			bestpair=$pair
 		fi
 	done
-	echo $i" "$best >> $out
+	echo $i" "$bestpair" "$bestrmse >> $out
 	cp $bestpic $outdir
 	mv $outdir/evaluate.png $outdir/$i.png
-	echo $best
+	echo $bestrmse" "$bestpair
+}
+
+PrintResult()
+{
+	local line=$1
+	local array=$2
+	for b in ${array[@]}
+	do
+		line=$line" "$b	
+	done
+	echo $line >> $compare	
+}
+
+GetEachResult()
+{
+	local i=$1
+	local arrayrmse=()
+	local arraypair=()
+	local k=0
+	for typ in ${test[@]}
+	do
+		local b=$(GetBest $typ $i)
+		local rmse=$(echo $b | awk '{print $1}')
+		local pair=$(echo $b | awk '{print $2}')
+		arrayrmse[$k]=$rmse
+		arraypair[$k]=$pair
+		((k++))
+	done
+	
+	PrintResult $i "${arrayrmse[*]}"
+	PrintResult $i "${arraypair[*]}"
 }
 
 
@@ -63,20 +98,6 @@ echo $line >> $compare
 
 for i in $result
 do
-	array=()
-	k=0
-	for typ in ${test[@]}
-	do
-		b=$(GetBest $typ $i)
-		array[$k]=$b
-		((k++))
-	done
-
-	line=$i
-	for b in ${array[@]}
-	do
-		line=$line" "$b	
-	done 
-	echo $line >> $compare
+	GetEachResult $i
 done
 
