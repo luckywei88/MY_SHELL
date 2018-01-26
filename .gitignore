@@ -1,8 +1,8 @@
-result/
-no_semantic/
-origin/
-reference/
-keyframe/
-comapre/
-groundtruth/
+result/*
+no_semantic/*
+origin/*
+reference/*
+keyframe/*
+comapre/*
+groundtruth/*
 *.mp4
