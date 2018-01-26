@@ -4,4 +4,5 @@ origin/
 reference/
 keyframe/
 comapre/
+groundtruth/
 *.mp4
