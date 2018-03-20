@@ -8,8 +8,8 @@ Yolo_Data=/home/lucky/MyLib/darknet/cfg/coco.data
 Yolo_Label=/home/lucky/MyLib/darknet/data/labels
 
 Yolo_Weight=/home/lucky/MyLib/darknet/tiny-yolo.weights
-#Yolo_Cfg=/home/lucky/MyLib/darknet/cfg/high-tiny-yolo.cfg
-Yolo_Cfg=/home/lucky/MyLib/darknet/cfg/tiny-yolo.cfg
+Yolo_Cfg=/home/lucky/MyLib/darknet/cfg/high-tiny-yolo.cfg
+#Yolo_Cfg=/home/lucky/MyLib/darknet/cfg/tiny-yolo.cfg
 
 #Yolo_Weight=/home/lucky/MyLib/darknet/yolo.weights
 #Yolo_Cfg=/home/lucky/MyLib/darknet/cfg/yolo.cfg
@@ -45,8 +45,8 @@ else
 	n=3
 fi
 
-Config=Freiburg${n}_low.yaml
-#Config=Freiburg${n}.yaml
+#Config=Freiburg${n}_low.yaml
+Config=Freiburg${n}.yaml
 
 Data_Dir=$Dir${array[$input]}
 Associate=$Data_Dir/associate.txt
