@@ -10,6 +10,7 @@ result=$(ls $Dir)
 for i in $result
 do
 	Data=$Dir$i
+	echo $Data
 	Ground=${Data}/groundtruth.txt
 	if [ ! -f $Ground ]; then
 		echo $i
