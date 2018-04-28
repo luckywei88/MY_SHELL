@@ -1,9 +1,425 @@
-... logging to /home/lucky/.ros/log/9fe90438-ad8a-11e7-bc84-408d5c0ff33e/roslaunch-lucky-B85-D3V-A-16533.log
+config /home/lucky/workspace/shell/Freiburg3.yaml
+
+ORB-SLAM2 Copyright (C) 2014-2016 Raul Mur-Artal, University of Zaragoza.
+This program comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions. See LICENSE.txt.
+
+Input sensor was set to: RGB-D
+
+Loading ORB Vocabulary. This could take a while...
+Vocabulary loaded!
+
+
+Camera Parameters: 
+- fx: 535.4
+- fy: 539.5
+- cx: 320.1
+- cy: 247.6
+- k1: 0
+- k2: 0
+- p1: 0
+- p2: 0
+- fps: 30
+- color order: RGB (ignored if grayscale)
+
+ORB Extractor Parameters: 
+- Number of Features: 1000
+- Scale Levels: 8
+- Scale Factor: 1.2
+- Initial Fast Threshold: 20
+- Minimum Fast Threshold: 7
+
+Depth Threshold (Close/Far Points): 3.73552
+show
+New map created with 845 points
+------------0 one frame---------------
+Predicted in 0.184221 seconds.
+cloud 307200
+428 tvmonitor : 46%
+728 laptop : 44%
+736 person : 39%
+854 chair : 42%
+detect complete
+------------1 one frame---------------
+Predicted in 0.090615 seconds.
+cloud 307200
+427 tvmonitor : 48%
+710 tvmonitor : 35%
+736 person : 43%
+detect complete
+send complete
+------------2 one frame---------------
+Predicted in 0.086393 seconds.
+cloud 307200
+468 keyboard : 36%
+728 laptop : 53%
+757 person : 39%
+detect complete
+send complete
+------------3 one frame---------------
+Predicted in 0.085871 seconds.
+cloud 307200
+428 tvmonitor : 48%
+728 laptop : 40%
+detect complete
+send complete
+------------4 one frame---------------
+Predicted in 0.089720 seconds.
+cloud 307200
+428 tvmonitor : 45%
+468 keyboard : 41%
+detect complete
+send complete
+------------5 one frame---------------
+Predicted in 0.090683 seconds.
+cloud 307200
+190 mouse : 41%
+448 tvmonitor : 74%
+488 keyboard : 44%
+754 tvmonitor : 55%
+757 person : 38%
+1146 person : 37%
+detect complete
+send complete
+------------6 one frame---------------
+Predicted in 0.097874 seconds.
+cloud 307200
+193 book : 45%
+448 tvmonitor : 39%
+488 keyboard : 41%
+764 person : 45%
+768 laptop : 56%
+818 person : 36%
+detect complete
+send complete
+------------7 one frame---------------
+Predicted in 0.097083 seconds.
+cloud 307200
+449 tvmonitor : 47%
+778 person : 53%
+1147 backpack : 35%
+detect complete
+send complete
+------------8 one frame---------------
+Predicted in 0.096331 seconds.
+cloud 307200
+212 mouse : 36%
+479 person : 42%
+770 laptop : 36%
+776 tvmonitor : 36%
+detect complete
+send complete
+------------9 one frame---------------
+Predicted in 0.092551 seconds.
+cloud 307200
+123 bottle : 38%
+detect complete
+send complete
+------------10 one frame---------------
+Predicted in 0.097249 seconds.
+cloud 307200
+727 refrigerator : 42%
+778 tvmonitor : 66%
+detect complete
+send complete
+------------11 one frame---------------
+Predicted in 0.086993 seconds.
+cloud 307200
+118 bottle : 40%
+502 keyboard : 38%
+574 cup : 56%
+749 tvmonitor : 74%
+1151 laptop : 46%
+detect complete
+send complete
+------------12 one frame---------------
+Predicted in 0.088004 seconds.
+cloud 307200
+462 tvmonitor : 55%
+502 keyboard : 45%
+574 cup : 60%
+749 tvmonitor : 68%
+762 laptop : 62%
+1049 laptop : 35%
+1151 laptop : 55%
+detect complete
+send complete
+------------13 one frame---------------
+Predicted in 0.091766 seconds.
+cloud 307200
+463 tvmonitor : 40%
+502 keyboard : 36%
+574 cup : 60%
+749 tvmonitor : 64%
+763 laptop : 41%
+1152 laptop : 49%
+detect complete
+send complete
+------------14 one frame---------------
+Predicted in 0.097267 seconds.
+cloud 307200
+465 tvmonitor : 64%
+505 keyboard : 36%
+751 tvmonitor : 75%
+1154 laptop : 54%
+detect complete
+send complete
+------------15 one frame---------------
+Predicted in 0.086113 seconds.
+cloud 307200
+190 book : 41%
+446 tvmonitor : 63%
+486 keyboard : 55%
+752 tvmonitor : 90%
+1155 laptop : 42%
+detect complete
+send complete
+------------16 one frame---------------
+Predicted in 0.087184 seconds.
+cloud 307200
+247 mouse : 40%
+486 tvmonitor : 61%
+545 keyboard : 53%
+812 tvmonitor : 67%
+1112 laptop : 51%
+detect complete
+send complete
+------------17 one frame---------------
+Predicted in 0.085501 seconds.
+cloud 307200
+466 tvmonitor : 65%
+505 keyboard : 36%
+532 keyboard : 35%
+772 tvmonitor : 73%
+793 laptop : 40%
+detect complete
+send complete
+------------18 one frame---------------
+Predicted in 0.087312 seconds.
+cloud 307200
+514 keyboard : 35%
+628 person : 48%
+754 tvmonitor : 57%
+detect complete
+send complete
+------------19 one frame---------------
+Predicted in 0.087435 seconds.
+cloud 307200
+427 tvmonitor : 47%
+727 laptop : 44%
+1416 chair : 47%
+detect complete
+send complete
+------------20 one frame---------------
+Predicted in 0.090727 seconds.
+cloud 307200
+727 tvmonitor : 62%
+1416 chair : 36%
+detect complete
+send complete
+------------21 one frame---------------
+Predicted in 0.089112 seconds.
+cloud 307200
+------------22 one frame---------------
+Predicted in 0.108068 seconds.
+cloud 307200
+1123 aeroplane : 83%
+1333 person : 39%
+detect complete
+send complete
+------------23 one frame---------------
+Predicted in 0.091446 seconds.
+cloud 307200
+531 skateboard : 36%
+646 tvmonitor : 39%
+758 chair : 46%
+953 tvmonitor : 70%
+1123 aeroplane : 63%
+1355 chair : 40%
+detect complete
+send complete
+------------24 one frame---------------
+Predicted in 0.087108 seconds.
+cloud 307200
+157 chair : 39%
+485 tvmonitor : 69%
+525 keyboard : 56%
+761 person : 64%
+812 tvmonitor : 66%
+836 vase : 37%
+detect complete
+send complete
+------------25 one frame---------------
+Predicted in 0.084589 seconds.
+cloud 307200
+765 tvmonitor : 39%
+792 tvmonitor : 52%
+detect complete
+send complete
+------------26 one frame---------------
+Predicted in 0.094252 seconds.
+cloud 307200
+406 tvmonitor : 62%
+706 laptop : 44%
+713 tvmonitor : 41%
+1163 skateboard : 49%
+detect complete
+send complete
+------------27 one frame---------------
+Predicted in 0.092746 seconds.
+cloud 307200
+464 keyboard : 41%
+472 keyboard : 40%
+712 tvmonitor : 61%
+724 tvmonitor : 74%
+1024 laptop : 39%
+detect complete
+send complete
+------------28 one frame---------------
+Predicted in 0.088639 seconds.
+cloud 307200
+472 keyboard : 40%
+1012 tvmonitor : 80%
+detect complete
+send complete
+------------29 one frame---------------
+Predicted in 0.085908 seconds.
+cloud 307200
+456 bottle : 47%
+463 keyboard : 60%
+704 tvmonitor : 81%
+1013 tvmonitor : 80%
+detect complete
+send complete
+------------30 one frame---------------
+Predicted in 0.095919 seconds.
+cloud 307200
+1004 tvmonitor : 42%
+1013 tvmonitor : 65%
+detect complete
+send complete
+------------31 one frame---------------
+Predicted in 0.094972 seconds.
+cloud 307200
+142 mouse : 56%
+360 person : 63%
+446 keyboard : 41%
+706 tvmonitor : 65%
+1014 tvmonitor : 84%
+detect complete
+send complete
+------------32 one frame---------------
+Predicted in 0.087908 seconds.
+cloud 307200
+143 mouse : 42%
+407 tvmonitor : 77%
+447 keyboard : 50%
+1014 tvmonitor : 73%
+detect complete
+send complete
+------------33 one frame---------------
+Predicted in 0.098495 seconds.
+cloud 307200
+409 tvmonitor : 42%
+1016 tvmonitor : 60%
+1323 person : 42%
+detect complete
+send complete
+------------34 one frame---------------
+Predicted in 0.087274 seconds.
+cloud 307200
+146 cell phone : 36%
+429 tvmonitor : 59%
+703 person : 51%
+729 laptop : 47%
+1036 tvmonitor : 69%
+1344 person : 51%
+detect complete
+send complete
+------------35 one frame---------------
+Predicted in 0.088461 seconds.
+cloud 307200
+429 tvmonitor : 67%
+735 tvmonitor : 76%
+838 chair : 35%
+1365 person : 36%
+detect complete
+send complete
+------------36 one frame---------------
+Predicted in 0.087930 seconds.
+cloud 307200
+429 tvmonitor : 52%
+434 tvmonitor : 71%
+1385 person : 71%
+detect complete
+send complete
+------------37 one frame---------------
+Predicted in 0.086628 seconds.
+cloud 307200
+409 tvmonitor : 61%
+715 tvmonitor : 38%
+1366 person : 47%
+detect complete
+send complete
+------------38 one frame---------------
+Predicted in 0.087421 seconds.
+cloud 307200
+409 tvmonitor : 64%
+1343 person : 74%
+detect complete
+send complete
+------------39 one frame---------------
+Predicted in 0.086453 seconds.
+cloud 307200
+408 tvmonitor : 35%
+detect complete
+send complete
+------------40 one frame---------------
+Predicted in 0.088170 seconds.
+cloud 307200
+702 person : 54%
+1016 tvmonitor : 60%
+detect complete
+send complete
+------------41 one frame---------------
+Predicted in 0.085615 seconds.
+cloud 307200
+439 bottle : 36%
+448 keyboard : 40%
+709 tvmonitor : 58%
+996 tvmonitor : 79%
+1345 person : 61%
+detect complete
+send complete
+------------42 one frame---------------
+Predicted in 0.087542 seconds.
+cloud 307200
+154 book : 40%
+729 tvmonitor : 62%
+1016 tvmonitor : 79%
+1346 person : 39%
+detect complete
+send complete
+------------43 one frame---------------
+Predicted in 0.087446 seconds.
+cloud 307200
+171 mouse : 39%
+429 tvmonitor : 71%
+1036 tvmonitor : 76%
+1365 person : 49%
+detect complete
+send complete
+
+Saving keyframe trajectory to KeyFrameTrajectory.txt ...
+
+trajectory saved!
+... logging to /home/lucky/.ros/log/8ccfa25c-4a8e-11e8-98bc-408d5c0ff33e/roslaunch-lucky-B85-D3V-A-17548.log
 Checking log directory for disk usage. This may take awhile.
 Press Ctrl-C to interrupt
 Done checking log file disk usage. Usage is <1GB.
 ]2;/home/lucky/workspace/launch/bag_orb_slam.launch
-[1mstarted roslaunch server http://lucky-B85-D3V-A:35452/[0m
+[1mstarted roslaunch server http://lucky-B85-D3V-A:41157/[0m
 
 SUMMARY
 ========
@@ -11,26 +427,27 @@ SUMMARY
 PARAMETERS
  * /rosdistro: indigo
  * /rosversion: 1.11.21
- * /slam2rgbd0/bag_of_word: /home/lucky/works...
- * /slam2rgbd0/base_tf: /robot0_link
- * /slam2rgbd0/config: /home/lucky/works...
- * /slam2rgbd0/odom_tf: /odom
- * /slam2rgbd0/ros: True
- * /slam2rgbd0/use_gui: True
- * /slam2rgbd0/world_tf: /map
- * /slam2rgbd0/yolo_cfg: /home/lucky/MyLib...
- * /slam2rgbd0/yolo_data: /home/lucky/MyLib...
- * /slam2rgbd0/yolo_weight: /home/lucky/MyLib...
+ * /slam2rgbd/bag_of_word: /home/lucky/works...
+ * /slam2rgbd/base_tf: /robot_link
+ * /slam2rgbd/config: /home/lucky/works...
+ * /slam2rgbd/odom_tf: /odom
+ * /slam2rgbd/ros: True
+ * /slam2rgbd/use_gui: True
+ * /slam2rgbd/world_tf: /map
+ * /slam2rgbd/yolo_cfg: /home/lucky/MyLib...
+ * /slam2rgbd/yolo_data: /home/lucky/MyLib...
+ * /slam2rgbd/yolo_label: /home/lucky/MyLib...
+ * /slam2rgbd/yolo_weight: /home/lucky/MyLib...
 
 NODES
   /
-    slam2rgbd0 (orb_slam/RGBD)
+    slam2rgbd (orb_slam/RGBD)
 
 [1mROS_MASTER_URI=http://localhost:11311[0m
 ]2;/home/lucky/workspace/launch/bag_orb_slam.launch http://localhost:11311
 core service [/rosout] found
-[1mprocess[slam2rgbd0-1]: started with pid [16552][0m
-[slam2rgbd0-1] killing on exit
+[1mprocess[slam2rgbd-1]: started with pid [17567][0m
+[slam2rgbd-1] killing on exit
 shutting down processing monitor...
 ... shutting down processing monitor complete
 [1mdone[0m

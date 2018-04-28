@@ -37,19 +37,14 @@ done
 echo "enter your chosen"
 read input
 
-if [ $input -lt 3 ]; then
-	n=1
-elif [ $input -lt 6 ]; then
-	n=2
-else
-	n=3
-fi
+DataSet=${array[$input]}
+Data_Dir=$Dir$DataSet
+Associate=$Data_Dir/associate.txt
+
+n=${DataSet:21:1}
 
 #Config=Freiburg${n}_low.yaml
 Config=Freiburg${n}.yaml
-
-Data_Dir=$Dir${array[$input]}
-Associate=$Data_Dir/associate.txt
 
 $EXEC $Bg $Config $Yolo_Data $Yolo_Weight $Yolo_Cfg $Yolo_Label $World $Base $Odom $Data_Dir $Associate false true
 
