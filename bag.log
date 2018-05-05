@@ -1,4 +1,4 @@
-config /home/lucky/workspace/shell/Freiburg2.yaml
+config /home/lucky/workspace/shell/Freiburg3.yaml
 
 ORB-SLAM2 Copyright (C) 2014-2016 Raul Mur-Artal, University of Zaragoza.
 This program comes with ABSOLUTELY NO WARRANTY;
@@ -12,10 +12,10 @@ Vocabulary loaded!
 
 
 Camera Parameters: 
-- fx: 520.9
-- fy: 521
-- cx: 325.1
-- cy: 249.7
+- fx: 535.4
+- fy: 539.5
+- cx: 320.1
+- cy: 247.6
 - k1: 0
 - k2: 0
 - p1: 0
@@ -30,4106 +30,829 @@ ORB Extractor Parameters:
 - Initial Fast Threshold: 20
 - Minimum Fast Threshold: 7
 
-Depth Threshold (Close/Far Points): 3.83951
+Depth Threshold (Close/Far Points): 3.73552
 show
-New map created with 828 points
+New map created with 745 points
 ------------0 one frame---------------
-Predicted in 0.827338 seconds.
+Predicted in 0.184413 seconds.
 cloud 307200
-93 bottle : 45%
-468 keyboard : 75%
-689 tvmonitor : 67%
+446 tvmonitor : 47%
+743 person : 36%
+753 tvmonitor : 70%
+853 chair : 64%
+1297 person : 51%
 detect complete
 ------------1 one frame---------------
-Predicted in 0.089305 seconds.
+Predicted in 0.095850 seconds.
 cloud 307200
-468 keyboard : 67%
-494 cup : 35%
-689 tvmonitor : 80%
+447 tvmonitor : 48%
+753 tvmonitor : 52%
+783 person : 46%
+853 chair : 66%
+1297 person : 55%
 detect complete
+send complete
 ------------2 one frame---------------
-Predicted in 0.086746 seconds.
+Predicted in 0.095938 seconds.
 cloud 307200
-689 tvmonitor : 69%
-1069 keyboard : 73%
+447 tvmonitor : 53%
+743 person : 54%
+753 tvmonitor : 60%
+803 chair : 37%
+853 chair : 55%
+1317 person : 44%
 detect complete
 send complete
 ------------3 one frame---------------
-Predicted in 0.089194 seconds.
+Predicted in 0.098469 seconds.
 cloud 307200
-461 bottle : 37%
-468 keyboard : 63%
-689 tvmonitor : 71%
+446 tvmonitor : 50%
+753 tvmonitor : 64%
+763 person : 55%
+853 chair : 62%
+1317 person : 36%
 detect complete
 send complete
 ------------4 one frame---------------
-Predicted in 0.086992 seconds.
+Predicted in 0.105562 seconds.
 cloud 307200
-468 keyboard : 79%
-497 mouse : 40%
-689 tvmonitor : 61%
+426 tvmonitor : 59%
+465 keyboard : 48%
+722 person : 51%
+752 tvmonitor : 58%
+833 chair : 75%
 detect complete
 send complete
 ------------5 one frame---------------
-Predicted in 0.090370 seconds.
+Predicted in 0.102588 seconds.
 cloud 307200
-386 bottle : 35%
-468 keyboard : 70%
-497 mouse : 37%
-689 tvmonitor : 63%
+425 tvmonitor : 64%
+731 tvmonitor : 86%
+761 person : 43%
+832 chair : 46%
+1396 person : 52%
 detect complete
 send complete
 ------------6 one frame---------------
-Predicted in 0.092910 seconds.
+Predicted in 0.108884 seconds.
 cloud 307200
-468 keyboard : 64%
-497 mouse : 40%
-689 tvmonitor : 61%
+336 person : 51%
+423 tvmonitor : 75%
+464 keyboard : 38%
+730 tvmonitor : 63%
+831 chair : 37%
+1382 person : 48%
+1395 person : 37%
 detect complete
 send complete
 ------------7 one frame---------------
-Predicted in 0.091202 seconds.
+Predicted in 0.106151 seconds.
 cloud 307200
-449 cell phone : 38%
-462 bottle : 35%
-468 keyboard : 66%
-709 tvmonitor : 73%
+748 tvmonitor : 77%
+761 person : 36%
+849 chair : 61%
 detect complete
 send complete
 ------------8 one frame---------------
-Predicted in 0.098330 seconds.
+Predicted in 0.105155 seconds.
 cloud 307200
-449 cell phone : 37%
-468 keyboard : 42%
-709 tvmonitor : 75%
+552 cup : 48%
+728 tvmonitor : 91%
+829 chair : 55%
+1314 person : 39%
 detect complete
 send complete
 ------------9 one frame---------------
-Predicted in 0.087699 seconds.
+Predicted in 0.107714 seconds.
 cloud 307200
-468 keyboard : 48%
-709 tvmonitor : 85%
+552 cup : 60%
+728 tvmonitor : 73%
+741 person : 61%
+829 chair : 37%
 detect complete
 send complete
 ------------10 one frame---------------
-Predicted in 0.089127 seconds.
+Predicted in 0.096372 seconds.
 cloud 307200
-461 bottle : 40%
-468 keyboard : 42%
-709 tvmonitor : 78%
+466 tvmonitor : 64%
+665 person : 47%
+773 tvmonitor : 67%
+1364 person : 47%
 detect complete
 send complete
 ------------11 one frame---------------
-Predicted in 0.091914 seconds.
+Predicted in 0.094644 seconds.
 cloud 307200
-481 bottle : 47%
-488 keyboard : 52%
-709 tvmonitor : 71%
+466 tvmonitor : 42%
+665 person : 36%
+773 tvmonitor : 55%
+1384 person : 38%
 detect complete
 send complete
 ------------12 one frame---------------
-Predicted in 0.088519 seconds.
+Predicted in 0.103099 seconds.
 cloud 307200
-481 bottle : 64%
-709 tvmonitor : 69%
-1088 keyboard : 69%
+487 tvmonitor : 47%
 detect complete
 send complete
 ------------13 one frame---------------
-Predicted in 0.097396 seconds.
+Predicted in 0.110319 seconds.
 cloud 307200
-461 bottle : 36%
-709 tvmonitor : 66%
-1088 keyboard : 74%
+487 tvmonitor : 59%
+764 person : 40%
+793 tvmonitor : 67%
 detect complete
 send complete
 ------------14 one frame---------------
-Predicted in 0.094348 seconds.
+Predicted in 0.109993 seconds.
 cloud 307200
-709 tvmonitor : 54%
-1088 keyboard : 72%
+488 tvmonitor : 41%
+764 person : 80%
+794 tvmonitor : 54%
 detect complete
 send complete
 ------------15 one frame---------------
-Predicted in 0.092494 seconds.
+Predicted in 0.116743 seconds.
 cloud 307200
-488 keyboard : 65%
-709 tvmonitor : 65%
+143 bottle : 44%
+231 mouse : 39%
+489 tvmonitor : 51%
+765 person : 49%
+795 tvmonitor : 65%
 detect complete
 send complete
 ------------16 one frame---------------
-Predicted in 0.093710 seconds.
+Predicted in 0.104041 seconds.
 cloud 307200
-467 keyboard : 47%
-709 tvmonitor : 58%
-1088 keyboard : 65%
+489 tvmonitor : 43%
+766 person : 37%
+1095 tvmonitor : 57%
 detect complete
 send complete
 ------------17 one frame---------------
-Predicted in 0.094180 seconds.
+Predicted in 0.116417 seconds.
 cloud 307200
-113 bottle : 41%
-461 cell phone : 37%
-467 keyboard : 42%
-488 keyboard : 62%
-709 tvmonitor : 71%
+227 mouse : 42%
+486 tvmonitor : 53%
+792 tvmonitor : 91%
 detect complete
 send complete
 ------------18 one frame---------------
-Predicted in 0.103800 seconds.
+Predicted in 0.098773 seconds.
 cloud 307200
-113 bottle : 56%
-488 keyboard : 57%
-709 tvmonitor : 63%
+485 tvmonitor : 49%
+792 tvmonitor : 83%
 detect complete
 send complete
 ------------19 one frame---------------
-Predicted in 0.089746 seconds.
+Predicted in 0.105403 seconds.
 cloud 307200
-113 bottle : 44%
-709 tvmonitor : 76%
-1088 keyboard : 65%
+208 book : 36%
+485 tvmonitor : 55%
+792 tvmonitor : 86%
 detect complete
 send complete
 ------------20 one frame---------------
-Predicted in 0.093249 seconds.
+Predicted in 0.106171 seconds.
 cloud 307200
-113 bottle : 35%
-461 cell phone : 41%
-487 keyboard : 54%
-709 tvmonitor : 69%
+485 tvmonitor : 69%
+792 tvmonitor : 88%
 detect complete
 send complete
 ------------21 one frame---------------
-Predicted in 0.097099 seconds.
+Predicted in 0.113562 seconds.
 cloud 307200
-113 bottle : 38%
-467 keyboard : 41%
-709 tvmonitor : 67%
-1088 keyboard : 49%
+227 mouse : 52%
+526 keyboard : 41%
+792 tvmonitor : 84%
 detect complete
 send complete
 ------------22 one frame---------------
-Predicted in 0.095295 seconds.
+Predicted in 0.132297 seconds.
 cloud 307200
-467 keyboard : 49%
-709 tvmonitor : 68%
-1088 keyboard : 52%
+506 tvmonitor : 35%
+812 tvmonitor : 56%
 detect complete
 send complete
 ------------23 one frame---------------
-Predicted in 0.098052 seconds.
+Predicted in 0.098753 seconds.
 cloud 307200
-113 bottle : 36%
-461 bottle : 58%
-467 keyboard : 46%
-516 cup : 38%
-709 tvmonitor : 70%
+161 bottle : 35%
+546 tvmonitor : 42%
+585 keyboard : 36%
+1152 tvmonitor : 36%
 detect complete
 send complete
 ------------24 one frame---------------
-Predicted in 0.094886 seconds.
+Predicted in 0.096871 seconds.
 cloud 307200
-449 cell phone : 35%
-461 bottle : 39%
-516 cup : 48%
-709 tvmonitor : 84%
-1068 keyboard : 43%
+1173 tvmonitor : 55%
 detect complete
 send complete
 ------------25 one frame---------------
-Predicted in 0.103610 seconds.
+Predicted in 0.108274 seconds.
 cloud 307200
-449 cell phone : 45%
-709 tvmonitor : 77%
-1068 keyboard : 58%
+546 tvmonitor : 38%
+1153 tvmonitor : 44%
 detect complete
 send complete
 ------------26 one frame---------------
-Predicted in 0.101249 seconds.
+Predicted in 0.101553 seconds.
 cloud 307200
-709 tvmonitor : 77%
-1068 keyboard : 64%
+853 tvmonitor : 51%
 detect complete
 send complete
 ------------27 one frame---------------
-Predicted in 0.096678 seconds.
+Predicted in 0.104202 seconds.
 cloud 307200
-709 tvmonitor : 69%
-1068 keyboard : 60%
+161 bottle : 42%
+1165 laptop : 39%
 detect complete
 send complete
 ------------28 one frame---------------
-Predicted in 0.085426 seconds.
+Predicted in 0.108029 seconds.
 cloud 307200
-468 keyboard : 57%
-709 tvmonitor : 74%
+873 tvmonitor : 35%
 detect complete
 send complete
 ------------29 one frame---------------
-Predicted in 0.097994 seconds.
+Predicted in 0.105986 seconds.
 cloud 307200
-447 keyboard : 37%
-689 tvmonitor : 75%
-1068 keyboard : 62%
-detect complete
-send complete
 ------------30 one frame---------------
-Predicted in 0.100177 seconds.
+Predicted in 0.146025 seconds.
 cloud 307200
-468 keyboard : 54%
-689 tvmonitor : 76%
-detect complete
-send complete
 ------------31 one frame---------------
-Predicted in 0.110585 seconds.
+Predicted in 0.144443 seconds.
 cloud 307200
-447 keyboard : 56%
-689 tvmonitor : 49%
-detect complete
-send complete
 ------------32 one frame---------------
-Predicted in 0.112089 seconds.
+Predicted in 0.103819 seconds.
 cloud 307200
-447 keyboard : 49%
-689 tvmonitor : 51%
+853 tvmonitor : 54%
 detect complete
 send complete
 ------------33 one frame---------------
-Predicted in 0.097327 seconds.
+Predicted in 0.101859 seconds.
 cloud 307200
-447 keyboard : 61%
-689 tvmonitor : 43%
+142 bottle : 51%
+527 tvmonitor : 35%
+1153 tvmonitor : 69%
 detect complete
 send complete
 ------------34 one frame---------------
-Predicted in 0.098805 seconds.
+Predicted in 0.106339 seconds.
 cloud 307200
-467 keyboard : 59%
-688 tvmonitor : 71%
+507 tvmonitor : 47%
+807 laptop : 41%
+1134 laptop : 37%
 detect complete
 send complete
 ------------35 one frame---------------
-Predicted in 0.122601 seconds.
+Predicted in 0.115686 seconds.
 cloud 307200
-467 keyboard : 77%
-688 tvmonitor : 72%
+507 tvmonitor : 37%
+538 book : 35%
+834 tvmonitor : 60%
 detect complete
 send complete
 ------------36 one frame---------------
-Predicted in 0.098647 seconds.
+Predicted in 0.108588 seconds.
 cloud 307200
-452 cup : 36%
-467 keyboard : 77%
-688 tvmonitor : 81%
+507 tvmonitor : 43%
+548 keyboard : 40%
+814 tvmonitor : 67%
 detect complete
 send complete
 ------------37 one frame---------------
-Predicted in 0.097410 seconds.
+Predicted in 0.101285 seconds.
 cloud 307200
-467 keyboard : 64%
-688 tvmonitor : 71%
+507 tvmonitor : 43%
+814 tvmonitor : 44%
+1114 laptop : 49%
 detect complete
 send complete
 ------------38 one frame---------------
-Predicted in 0.100198 seconds.
+Predicted in 0.108649 seconds.
 cloud 307200
-455 clock : 39%
-467 keyboard : 51%
-688 tvmonitor : 65%
+268 mouse : 40%
+435 person : 46%
+506 tvmonitor : 75%
+813 tvmonitor : 67%
 detect complete
 send complete
 ------------39 one frame---------------
-Predicted in 0.116471 seconds.
+Predicted in 0.107944 seconds.
 cloud 307200
-688 tvmonitor : 66%
-1047 keyboard : 61%
+526 tvmonitor : 49%
+813 tvmonitor : 58%
 detect complete
 send complete
 ------------40 one frame---------------
-Predicted in 0.101981 seconds.
+Predicted in 0.100876 seconds.
 cloud 307200
-688 tvmonitor : 71%
-1047 keyboard : 54%
+268 mouse : 36%
+526 tvmonitor : 57%
+813 tvmonitor : 52%
 detect complete
 send complete
 ------------41 one frame---------------
-Predicted in 0.102291 seconds.
+Predicted in 0.094228 seconds.
 cloud 307200
-446 keyboard : 76%
-688 tvmonitor : 65%
+506 tvmonitor : 54%
+793 tvmonitor : 70%
 detect complete
 send complete
 ------------42 one frame---------------
-Predicted in 0.115558 seconds.
+Predicted in 0.110657 seconds.
 cloud 307200
-92 bottle : 37%
-446 keyboard : 72%
-688 tvmonitor : 61%
+485 tvmonitor : 64%
+511 book : 36%
 detect complete
 send complete
 ------------43 one frame---------------
-Predicted in 0.117247 seconds.
+Predicted in 0.097563 seconds.
 cloud 307200
-446 keyboard : 74%
-687 tvmonitor : 70%
+465 tvmonitor : 62%
+577 cup : 37%
+752 tvmonitor : 57%
+765 laptop : 37%
+834 chair : 41%
 detect complete
 send complete
 ------------44 one frame---------------
-Predicted in 0.120228 seconds.
+Predicted in 0.164793 seconds.
 cloud 307200
-446 keyboard : 74%
-687 tvmonitor : 81%
+445 tvmonitor : 72%
+752 tvmonitor : 74%
+834 chair : 61%
 detect complete
 send complete
 ------------45 one frame---------------
-Predicted in 0.104936 seconds.
+Predicted in 0.090382 seconds.
 cloud 307200
-446 keyboard : 70%
-687 tvmonitor : 68%
+572 chair : 44%
+745 tvmonitor : 50%
+752 tvmonitor : 82%
+854 chair : 58%
 detect complete
 send complete
 ------------46 one frame---------------
-Predicted in 0.117234 seconds.
+Predicted in 0.101670 seconds.
 cloud 307200
-446 keyboard : 58%
-687 tvmonitor : 65%
+446 tvmonitor : 39%
+505 keyboard : 36%
+721 person : 55%
+752 tvmonitor : 83%
+854 chair : 44%
 detect complete
 send complete
 ------------47 one frame---------------
-Predicted in 0.126362 seconds.
+Predicted in 0.096838 seconds.
 cloud 307200
-446 keyboard : 62%
-667 tvmonitor : 46%
-967 laptop : 51%
+446 tvmonitor : 52%
+505 keyboard : 50%
+721 person : 72%
+752 tvmonitor : 82%
+854 chair : 50%
 detect complete
 send complete
 ------------48 one frame---------------
-Predicted in 0.103752 seconds.
+Predicted in 0.088694 seconds.
 cloud 307200
-446 keyboard : 75%
-667 tvmonitor : 77%
+466 tvmonitor : 50%
+741 person : 74%
+773 tvmonitor : 56%
+855 chair : 37%
+1154 laptop : 40%
 detect complete
 send complete
 ------------49 one frame---------------
-Predicted in 0.115340 seconds.
+Predicted in 0.092721 seconds.
 cloud 307200
-446 keyboard : 44%
-667 tvmonitor : 61%
-967 laptop : 38%
+741 person : 49%
+767 tvmonitor : 54%
+793 tvmonitor : 55%
 detect complete
 send complete
 ------------50 one frame---------------
-Predicted in 0.087099 seconds.
+Predicted in 0.086632 seconds.
 cloud 307200
-667 tvmonitor : 70%
-1026 keyboard : 58%
+228 mouse : 58%
+487 tvmonitor : 72%
+527 keyboard : 61%
+793 tvmonitor : 74%
 detect complete
 send complete
 ------------51 one frame---------------
-Predicted in 0.118995 seconds.
+Predicted in 0.086909 seconds.
 cloud 307200
-426 keyboard : 63%
-667 tvmonitor : 65%
+228 mouse : 46%
+487 tvmonitor : 64%
+527 keyboard : 37%
+793 tvmonitor : 88%
 detect complete
 send complete
 ------------52 one frame---------------
-Predicted in 0.120349 seconds.
+Predicted in 0.087990 seconds.
 cloud 307200
-426 keyboard : 41%
-667 tvmonitor : 53%
+467 tvmonitor : 80%
+774 tvmonitor : 73%
 detect complete
 send complete
 ------------53 one frame---------------
-Predicted in 0.106981 seconds.
+Predicted in 0.086570 seconds.
 cloud 307200
-405 keyboard : 47%
-426 keyboard : 54%
-667 tvmonitor : 48%
+185 mouse : 56%
+210 mouse : 38%
+468 tvmonitor : 77%
+508 keyboard : 55%
+774 tvmonitor : 75%
 detect complete
 send complete
 ------------54 one frame---------------
-Predicted in 0.123824 seconds.
+Predicted in 0.087534 seconds.
 cloud 307200
-405 keyboard : 44%
-426 keyboard : 40%
-647 tvmonitor : 53%
-666 laptop : 41%
+185 mouse : 37%
+468 tvmonitor : 46%
+721 person : 37%
+775 tvmonitor : 62%
 detect complete
 send complete
 ------------55 one frame---------------
-Predicted in 0.129033 seconds.
+Predicted in 0.099567 seconds.
 cloud 307200
-405 keyboard : 51%
-647 tvmonitor : 52%
-1006 keyboard : 45%
+185 mouse : 44%
+468 tvmonitor : 75%
+509 keyboard : 35%
+1075 tvmonitor : 50%
+1322 person : 57%
 detect complete
 send complete
 ------------56 one frame---------------
-Predicted in 0.106886 seconds.
+Predicted in 0.086023 seconds.
 cloud 307200
-405 keyboard : 49%
-646 tvmonitor : 64%
-1006 keyboard : 62%
+467 tvmonitor : 82%
+774 tvmonitor : 73%
 detect complete
 send complete
 ------------57 one frame---------------
-Predicted in 0.109625 seconds.
+Predicted in 0.086209 seconds.
 cloud 307200
-405 keyboard : 62%
-646 tvmonitor : 52%
+467 tvmonitor : 79%
+773 tvmonitor : 59%
 detect complete
 send complete
 ------------58 one frame---------------
-Predicted in 0.124774 seconds.
+Predicted in 0.093086 seconds.
 cloud 307200
-405 keyboard : 65%
-646 tvmonitor : 63%
+228 mouse : 42%
+486 tvmonitor : 72%
+526 keyboard : 62%
+769 tvmonitor : 35%
+793 tvmonitor : 87%
 detect complete
 send complete
 ------------59 one frame---------------
-Predicted in 0.126880 seconds.
+Predicted in 0.086743 seconds.
 cloud 307200
-385 keyboard : 36%
-405 keyboard : 77%
-432 cup : 37%
-646 tvmonitor : 66%
+228 mouse : 54%
+486 tvmonitor : 54%
+526 keyboard : 64%
+1093 tvmonitor : 80%
 detect complete
 send complete
 ------------60 one frame---------------
-Predicted in 0.123245 seconds.
+Predicted in 0.087767 seconds.
 cloud 307200
-385 keyboard : 37%
-405 keyboard : 78%
-646 tvmonitor : 76%
+526 keyboard : 48%
+785 tvmonitor : 75%
+1093 tvmonitor : 84%
 detect complete
 send complete
 ------------61 one frame---------------
-Predicted in 0.106283 seconds.
+Predicted in 0.087586 seconds.
 cloud 307200
-405 keyboard : 76%
-432 cup : 42%
-646 tvmonitor : 71%
+1073 tvmonitor : 62%
+1093 laptop : 40%
 detect complete
 send complete
 ------------62 one frame---------------
-Predicted in 0.123072 seconds.
+Predicted in 0.087864 seconds.
 cloud 307200
-405 keyboard : 78%
-432 cup : 48%
-646 tvmonitor : 70%
+207 mouse : 38%
+1073 tvmonitor : 47%
 detect complete
 send complete
 ------------63 one frame---------------
-Predicted in 0.108376 seconds.
+Predicted in 0.088530 seconds.
 cloud 307200
-405 keyboard : 77%
-646 tvmonitor : 69%
+512 book : 41%
+1052 tvmonitor : 64%
 detect complete
 send complete
 ------------64 one frame---------------
-Predicted in 0.126485 seconds.
+Predicted in 0.089061 seconds.
 cloud 307200
-405 keyboard : 71%
-432 cup : 35%
-646 tvmonitor : 74%
+483 keyboard : 40%
 detect complete
 send complete
 ------------65 one frame---------------
-Predicted in 0.110597 seconds.
+Predicted in 0.088475 seconds.
 cloud 307200
-405 keyboard : 69%
-646 tvmonitor : 55%
+484 keyboard : 49%
+504 keyboard : 35%
+744 tvmonitor : 65%
 detect complete
 send complete
 ------------66 one frame---------------
-Predicted in 0.120100 seconds.
+Predicted in 0.088925 seconds.
 cloud 307200
-405 keyboard : 68%
-646 tvmonitor : 63%
+206 mouse : 49%
+504 keyboard : 72%
+764 tvmonitor : 55%
+842 chair : 35%
 detect complete
 send complete
 ------------67 one frame---------------
-Predicted in 0.129889 seconds.
+Predicted in 0.088572 seconds.
 cloud 307200
-405 keyboard : 68%
-432 cup : 43%
-646 tvmonitor : 59%
+207 mouse : 64%
+505 keyboard : 51%
+765 tvmonitor : 63%
+1332 person : 41%
 detect complete
 send complete
 ------------68 one frame---------------
-Predicted in 0.142975 seconds.
+Predicted in 0.088986 seconds.
 cloud 307200
-405 keyboard : 79%
-432 cup : 54%
-646 tvmonitor : 68%
+207 mouse : 46%
+505 keyboard : 49%
+765 tvmonitor : 77%
 detect complete
 send complete
 ------------69 one frame---------------
-Predicted in 0.110812 seconds.
+Predicted in 0.086662 seconds.
 cloud 307200
-405 keyboard : 82%
-432 cup : 53%
-646 tvmonitor : 71%
+208 mouse : 45%
+446 tvmonitor : 52%
+458 sink : 39%
+506 keyboard : 36%
+736 person : 43%
 detect complete
 send complete
 ------------70 one frame---------------
-Predicted in 0.114387 seconds.
+Predicted in 0.087783 seconds.
 cloud 307200
-405 keyboard : 81%
-432 cup : 42%
-646 tvmonitor : 74%
+446 tvmonitor : 38%
+516 book : 47%
+1333 person : 37%
 detect complete
 send complete
 ------------71 one frame---------------
-Predicted in 0.125255 seconds.
+Predicted in 0.089127 seconds.
 cloud 307200
-405 keyboard : 81%
-646 tvmonitor : 74%
+747 tvmonitor : 61%
+1353 person : 59%
 detect complete
 send complete
 ------------72 one frame---------------
-Predicted in 0.134373 seconds.
+Predicted in 0.087111 seconds.
 cloud 307200
-405 keyboard : 76%
-646 tvmonitor : 76%
+467 tvmonitor : 66%
+507 keyboard : 36%
+878 chair : 48%
+1393 person : 68%
 detect complete
 send complete
 ------------73 one frame---------------
-Predicted in 0.119731 seconds.
+Predicted in 0.088107 seconds.
 cloud 307200
-50 bottle : 38%
-405 keyboard : 77%
-646 tvmonitor : 74%
+208 mouse : 40%
+467 tvmonitor : 54%
+507 keyboard : 51%
+542 chair : 36%
 detect complete
 send complete
 ------------74 one frame---------------
-Predicted in 0.133621 seconds.
+Predicted in 0.088477 seconds.
 cloud 307200
-50 bottle : 48%
-405 keyboard : 76%
-646 tvmonitor : 74%
+467 tvmonitor : 78%
+507 keyboard : 50%
+1413 person : 36%
 detect complete
 send complete
 ------------75 one frame---------------
-Predicted in 0.147548 seconds.
+Predicted in 0.089085 seconds.
 cloud 307200
-405 keyboard : 84%
-646 tvmonitor : 78%
+211 book : 36%
+467 tvmonitor : 86%
+507 keyboard : 40%
+1414 person : 42%
 detect complete
 send complete
 ------------76 one frame---------------
-Predicted in 0.133094 seconds.
+Predicted in 0.088415 seconds.
 cloud 307200
-405 keyboard : 82%
-410 cup : 40%
-646 tvmonitor : 77%
+209 mouse : 37%
+467 tvmonitor : 83%
 detect complete
 send complete
 ------------77 one frame---------------
-Predicted in 0.114103 seconds.
+Predicted in 0.094077 seconds.
 cloud 307200
-51 bottle : 37%
-405 keyboard : 81%
-410 cup : 39%
-646 tvmonitor : 83%
+122 bottle : 37%
+209 mouse : 43%
+467 tvmonitor : 82%
+508 keyboard : 40%
+598 cup : 39%
 detect complete
 send complete
 ------------78 one frame---------------
-Predicted in 0.146835 seconds.
+Predicted in 0.086140 seconds.
 cloud 307200
-385 keyboard : 37%
-405 keyboard : 86%
-646 tvmonitor : 73%
-666 laptop : 42%
+467 tvmonitor : 67%
+816 person : 60%
 detect complete
 send complete
 ------------79 one frame---------------
-Predicted in 0.160075 seconds.
+Predicted in 0.088869 seconds.
 cloud 307200
-405 keyboard : 78%
-646 tvmonitor : 63%
-666 laptop : 40%
+446 tvmonitor : 50%
+468 tvmonitor : 78%
+1416 person : 47%
 detect complete
 send complete
 ------------80 one frame---------------
-Predicted in 0.149305 seconds.
+Predicted in 0.218156 seconds.
 cloud 307200
-405 keyboard : 69%
-410 cup : 35%
-647 tvmonitor : 61%
-666 laptop : 48%
+172 book : 36%
+453 tvmonitor : 51%
+579 cup : 38%
+730 tvmonitor : 48%
+776 person : 58%
+838 chair : 49%
+875 chair : 45%
 detect complete
 send complete
 ------------81 one frame---------------
-Predicted in 0.134176 seconds.
+Predicted in 0.110502 seconds.
 cloud 307200
-405 keyboard : 75%
-647 tvmonitor : 73%
-966 laptop : 42%
+172 book : 36%
+754 tvmonitor : 45%
+776 person : 50%
+838 chair : 43%
+875 chair : 39%
 detect complete
 send complete
 ------------82 one frame---------------
-Predicted in 0.114732 seconds.
+Predicted in 0.094932 seconds.
 cloud 307200
-406 keyboard : 76%
-647 tvmonitor : 75%
-666 laptop : 41%
+776 person : 55%
+857 chair : 48%
+875 chair : 44%
 detect complete
 send complete
 ------------83 one frame---------------
-Predicted in 0.149186 seconds.
+Predicted in 0.095139 seconds.
 cloud 307200
-406 keyboard : 72%
-647 tvmonitor : 77%
-966 laptop : 54%
-detect complete
-send complete
+776 person : 47%
 ------------84 one frame---------------
-Predicted in 0.125492 seconds.
+Predicted in 0.213480 seconds.
 cloud 307200
-406 keyboard : 61%
-647 tvmonitor : 66%
-966 laptop : 52%
+734 tvmonitor : 39%
+838 chair : 38%
+875 chair : 43%
 detect complete
 send complete
 ------------85 one frame---------------
-Predicted in 0.161838 seconds.
+Predicted in 0.097459 seconds.
 cloud 307200
-405 keyboard : 62%
-647 tvmonitor : 84%
-666 laptop : 45%
+733 tvmonitor : 60%
+803 chair : 49%
+838 chair : 49%
 detect complete
 send complete
 ------------86 one frame---------------
-Predicted in 0.155720 seconds.
+Predicted in 0.091863 seconds.
 cloud 307200
-405 keyboard : 66%
-647 tvmonitor : 84%
-666 laptop : 49%
+152 book : 40%
+838 chair : 51%
+1366 person : 48%
 detect complete
 send complete
 ------------87 one frame---------------
-Predicted in 0.140413 seconds.
+Predicted in 0.087566 seconds.
 cloud 307200
-405 keyboard : 68%
-647 tvmonitor : 86%
-965 laptop : 37%
+152 book : 39%
+153 book : 37%
+402 tvmonitor : 39%
+713 tvmonitor : 47%
+838 chair : 56%
+1365 person : 37%
 detect complete
 send complete
 ------------88 one frame---------------
-Predicted in 0.160924 seconds.
+Predicted in 0.088369 seconds.
 cloud 307200
-406 keyboard : 78%
-647 tvmonitor : 77%
-666 laptop : 50%
+837 chair : 44%
 detect complete
 send complete
 ------------89 one frame---------------
-Predicted in 0.148437 seconds.
+Predicted in 0.089806 seconds.
 cloud 307200
-406 keyboard : 80%
-647 tvmonitor : 83%
-666 laptop : 51%
+168 mouse : 39%
+732 tvmonitor : 44%
+837 laptop : 44%
 detect complete
 send complete
 ------------90 one frame---------------
-Predicted in 0.166788 seconds.
+Predicted in 0.085768 seconds.
 cloud 307200
-406 keyboard : 77%
-647 tvmonitor : 82%
-666 laptop : 58%
+695 person : 41%
+725 tvmonitor : 38%
+732 tvmonitor : 39%
 detect complete
 send complete
 ------------91 one frame---------------
-Predicted in 0.190964 seconds.
+Predicted in 0.089460 seconds.
 cloud 307200
-406 keyboard : 67%
-647 tvmonitor : 81%
-666 laptop : 64%
+466 keyboard : 36%
+709 tvmonitor : 35%
+726 tvmonitor : 69%
 detect complete
 send complete
 ------------92 one frame---------------
-Predicted in 0.195375 seconds.
+Predicted in 0.089295 seconds.
 cloud 307200
-405 keyboard : 63%
-647 tvmonitor : 87%
-666 laptop : 46%
+465 keyboard : 64%
+725 tvmonitor : 37%
+732 tvmonitor : 53%
 detect complete
 send complete
 ------------93 one frame---------------
-Predicted in 0.193610 seconds.
+Predicted in 0.088254 seconds.
 cloud 307200
-405 keyboard : 69%
-647 tvmonitor : 78%
-666 laptop : 51%
+426 tvmonitor : 44%
 detect complete
 send complete
 ------------94 one frame---------------
-Predicted in 0.157589 seconds.
+Predicted in 0.088399 seconds.
 cloud 307200
-405 keyboard : 77%
-647 tvmonitor : 77%
-666 laptop : 50%
+188 mouse : 44%
+452 tvmonitor : 35%
 detect complete
 send complete
 ------------95 one frame---------------
-Predicted in 0.161938 seconds.
+Predicted in 0.089746 seconds.
 cloud 307200
-405 keyboard : 73%
-647 tvmonitor : 87%
-666 laptop : 43%
+493 book : 43%
+746 tvmonitor : 42%
 detect complete
 send complete
 ------------96 one frame---------------
-Predicted in 0.175324 seconds.
+Predicted in 0.092022 seconds.
 cloud 307200
-386 keyboard : 35%
-405 keyboard : 75%
-647 tvmonitor : 80%
-666 laptop : 56%
+188 mouse : 39%
+446 tvmonitor : 45%
+486 keyboard : 47%
+493 book : 47%
+742 person : 44%
+753 tvmonitor : 44%
+858 cup : 36%
 detect complete
 send complete
 ------------97 one frame---------------
-Predicted in 0.176490 seconds.
+Predicted in 0.089638 seconds.
 cloud 307200
-405 keyboard : 71%
-647 tvmonitor : 66%
-666 laptop : 63%
+208 mouse : 49%
+466 tvmonitor : 48%
+506 keyboard : 52%
+513 book : 37%
+742 person : 49%
+858 laptop : 48%
+1395 person : 57%
 detect complete
 send complete
 ------------98 one frame---------------
-Predicted in 0.185676 seconds.
-cloud 307200
-405 keyboard : 81%
-647 tvmonitor : 82%
-666 laptop : 42%
-detect complete
-send complete
-------------99 one frame---------------
-Predicted in 0.183290 seconds.
-cloud 307200
-405 keyboard : 80%
-647 tvmonitor : 71%
-666 laptop : 45%
-detect complete
-send complete
-------------100 one frame---------------
-Predicted in 0.183315 seconds.
-cloud 307200
-405 keyboard : 77%
-647 tvmonitor : 76%
-965 laptop : 49%
-detect complete
-send complete
-------------101 one frame---------------
-Predicted in 0.154838 seconds.
-cloud 307200
-405 keyboard : 76%
-646 tvmonitor : 72%
-666 laptop : 54%
-detect complete
-send complete
-------------102 one frame---------------
-Predicted in 0.166573 seconds.
-cloud 307200
-405 keyboard : 80%
-410 cup : 47%
-646 tvmonitor : 75%
-666 laptop : 52%
-detect complete
-send complete
-------------103 one frame---------------
-Predicted in 0.178509 seconds.
-cloud 307200
-51 bottle : 43%
-405 keyboard : 82%
-646 tvmonitor : 74%
-666 laptop : 57%
-detect complete
-send complete
-------------104 one frame---------------
-Predicted in 0.170352 seconds.
-cloud 307200
-405 keyboard : 82%
-646 tvmonitor : 81%
-666 laptop : 38%
-detect complete
-send complete
-------------105 one frame---------------
-Predicted in 0.121572 seconds.
-cloud 307200
-51 bottle : 65%
-405 keyboard : 80%
-646 tvmonitor : 80%
-666 laptop : 51%
-detect complete
-send complete
-------------106 one frame---------------
-Predicted in 0.217702 seconds.
-cloud 307200
-51 bottle : 43%
-405 keyboard : 77%
-451 cup : 38%
-646 tvmonitor : 79%
-666 laptop : 54%
-detect complete
-send complete
-------------107 one frame---------------
-Predicted in 0.168865 seconds.
-cloud 307200
-51 bottle : 44%
-405 keyboard : 84%
-451 cup : 56%
-646 tvmonitor : 79%
-666 laptop : 54%
-detect complete
-send complete
-------------108 one frame---------------
-Predicted in 0.181303 seconds.
-cloud 307200
-405 keyboard : 82%
-451 cup : 48%
-646 tvmonitor : 72%
-666 laptop : 59%
-detect complete
-send complete
-------------109 one frame---------------
-Predicted in 0.151720 seconds.
-cloud 307200
-405 keyboard : 85%
-451 cup : 37%
-642 cup : 38%
-646 tvmonitor : 79%
-666 laptop : 57%
-detect complete
-send complete
-------------110 one frame---------------
-Predicted in 0.164270 seconds.
-cloud 307200
-405 keyboard : 83%
-451 cup : 37%
-646 tvmonitor : 72%
-666 laptop : 62%
-detect complete
-send complete
-------------111 one frame---------------
-Predicted in 0.159115 seconds.
-cloud 307200
-405 keyboard : 86%
-451 cup : 61%
-642 cup : 36%
-646 tvmonitor : 78%
-666 laptop : 49%
-detect complete
-send complete
-------------112 one frame---------------
-Predicted in 0.182334 seconds.
-cloud 307200
-405 keyboard : 73%
-451 cup : 46%
-642 cup : 45%
-646 tvmonitor : 65%
-666 laptop : 63%
-detect complete
-send complete
-------------113 one frame---------------
-Predicted in 0.195257 seconds.
-cloud 307200
-425 keyboard : 78%
-647 tvmonitor : 61%
-666 laptop : 46%
-detect complete
-send complete
-------------114 one frame---------------
-Predicted in 0.187301 seconds.
-cloud 307200
-425 keyboard : 76%
-451 cup : 46%
-666 laptop : 66%
-667 tvmonitor : 37%
-detect complete
-send complete
-------------115 one frame---------------
-Predicted in 0.137601 seconds.
-cloud 307200
-425 keyboard : 80%
-666 laptop : 63%
-667 tvmonitor : 35%
-detect complete
-send complete
-------------116 one frame---------------
-Predicted in 0.139348 seconds.
-cloud 307200
-425 keyboard : 82%
-471 cup : 41%
-667 tvmonitor : 60%
-686 laptop : 52%
-detect complete
-send complete
-------------117 one frame---------------
-Predicted in 0.233383 seconds.
-cloud 307200
-425 keyboard : 81%
-667 tvmonitor : 56%
-985 laptop : 49%
-detect complete
-send complete
-------------118 one frame---------------
-Predicted in 0.200659 seconds.
-cloud 307200
-425 keyboard : 75%
-667 tvmonitor : 64%
-686 laptop : 65%
-1390 laptop : 40%
-detect complete
-send complete
-------------119 one frame---------------
-Predicted in 0.185535 seconds.
-cloud 307200
-425 keyboard : 77%
-667 tvmonitor : 67%
-686 laptop : 63%
-1390 laptop : 40%
-detect complete
-send complete
-------------120 one frame---------------
-Predicted in 0.174697 seconds.
-cloud 307200
-425 keyboard : 76%
-667 tvmonitor : 65%
-686 laptop : 50%
-1390 laptop : 40%
-detect complete
-send complete
-------------121 one frame---------------
-Predicted in 0.186667 seconds.
-cloud 307200
-425 keyboard : 69%
-667 tvmonitor : 52%
-686 laptop : 60%
-1390 laptop : 40%
-detect complete
-send complete
-------------122 one frame---------------
-Predicted in 0.203890 seconds.
-cloud 307200
-72 bottle : 39%
-425 keyboard : 69%
-430 cell phone : 47%
-667 tvmonitor : 57%
-686 laptop : 52%
-detect complete
-send complete
-------------123 one frame---------------
-Predicted in 0.173607 seconds.
-cloud 307200
-425 keyboard : 58%
-667 tvmonitor : 78%
-1391 laptop : 51%
-detect complete
-send complete
-------------124 one frame---------------
-Predicted in 0.099071 seconds.
-cloud 307200
-72 bottle : 35%
-425 keyboard : 48%
-667 tvmonitor : 53%
-1305 laptop : 44%
-1391 laptop : 49%
-detect complete
-send complete
-------------125 one frame---------------
-Predicted in 0.230512 seconds.
-cloud 307200
-445 keyboard : 47%
-667 tvmonitor : 45%
-detect complete
-send complete
-------------126 one frame---------------
-Predicted in 0.143499 seconds.
-cloud 307200
-446 keyboard : 71%
-667 tvmonitor : 60%
-687 laptop : 43%
-1305 laptop : 39%
-detect complete
-send complete
-------------127 one frame---------------
-Predicted in 0.146878 seconds.
-cloud 307200
-127 mouse : 38%
-426 keyboard : 37%
-446 keyboard : 81%
-667 tvmonitor : 58%
-687 laptop : 43%
-detect complete
-send complete
-------------128 one frame---------------
-Predicted in 0.243957 seconds.
-cloud 307200
-446 keyboard : 85%
-667 tvmonitor : 35%
-687 laptop : 52%
-detect complete
-send complete
-------------129 one frame---------------
-Predicted in 0.162099 seconds.
-cloud 307200
-312 car : 36%
-446 keyboard : 85%
-687 laptop : 55%
-detect complete
-send complete
-------------130 one frame---------------
-Predicted in 0.191102 seconds.
-cloud 307200
-312 car : 38%
-446 keyboard : 74%
-489 cup : 39%
-707 laptop : 53%
-detect complete
-send complete
-------------131 one frame---------------
-Predicted in 0.150609 seconds.
-cloud 307200
-446 keyboard : 65%
-488 mouse : 49%
-489 cup : 37%
-688 tvmonitor : 54%
-987 laptop : 48%
-detect complete
-send complete
-------------132 one frame---------------
-Predicted in 0.230234 seconds.
-cloud 307200
-446 keyboard : 37%
-688 tvmonitor : 45%
-708 laptop : 54%
-1327 laptop : 36%
-detect complete
-send complete
-------------133 one frame---------------
-Predicted in 0.151722 seconds.
-cloud 307200
-313 car : 42%
-471 toothbrush : 36%
-708 laptop : 68%
-1327 laptop : 35%
-detect complete
-send complete
-------------134 one frame---------------
-Predicted in 0.087641 seconds.
-cloud 307200
-314 car : 38%
-467 keyboard : 70%
-708 laptop : 73%
-1327 laptop : 38%
-detect complete
-send complete
-------------135 one frame---------------
-Predicted in 0.182987 seconds.
-cloud 307200
-314 car : 55%
-467 keyboard : 83%
-708 laptop : 54%
-709 tvmonitor : 39%
-1327 laptop : 51%
-detect complete
-send complete
-------------136 one frame---------------
-Predicted in 0.176419 seconds.
-cloud 307200
-314 car : 41%
-467 keyboard : 84%
-709 tvmonitor : 35%
-1027 laptop : 45%
-detect complete
-send complete
-------------137 one frame---------------
-Predicted in 0.182805 seconds.
-cloud 307200
-467 keyboard : 77%
-510 cup : 46%
-709 laptop : 52%
-detect complete
-send complete
-------------138 one frame---------------
-Predicted in 0.210589 seconds.
-cloud 307200
-467 keyboard : 66%
-509 mouse : 43%
-510 cup : 55%
-709 tvmonitor : 39%
-729 laptop : 55%
-detect complete
-send complete
-------------139 one frame---------------
-Predicted in 0.191746 seconds.
-cloud 307200
-709 laptop : 66%
-1328 laptop : 45%
-detect complete
-send complete
-------------140 one frame---------------
-Predicted in 0.176954 seconds.
-cloud 307200
-443 bottle : 38%
-492 cell phone : 62%
-729 laptop : 80%
-1348 laptop : 36%
-detect complete
-send complete
-------------141 one frame---------------
-Predicted in 0.171909 seconds.
-cloud 307200
-443 bottle : 39%
-487 keyboard : 39%
-729 laptop : 71%
-detect complete
-send complete
-------------142 one frame---------------
-Predicted in 0.166528 seconds.
-cloud 307200
-487 keyboard : 37%
-729 laptop : 69%
-detect complete
-send complete
-------------143 one frame---------------
-Predicted in 0.192894 seconds.
-cloud 307200
-487 keyboard : 38%
-529 mouse : 65%
-530 mouse : 44%
-686 pottedplant : 41%
-749 laptop : 61%
-detect complete
-send complete
-------------144 one frame---------------
-Predicted in 0.171505 seconds.
-cloud 307200
-512 cell phone : 43%
-529 mouse : 48%
-530 mouse : 36%
-1048 laptop : 65%
-detect complete
-send complete
-------------145 one frame---------------
-Predicted in 0.151361 seconds.
-cloud 307200
-512 cell phone : 35%
-529 mouse : 46%
-536 cell phone : 38%
-550 mouse : 54%
-1048 laptop : 64%
-detect complete
-send complete
-------------146 one frame---------------
-Predicted in 0.088282 seconds.
-cloud 307200
-529 mouse : 38%
-530 mouse : 55%
-536 cell phone : 46%
-550 cup : 49%
-750 laptop : 64%
-detect complete
-send complete
-------------147 one frame---------------
-Predicted in 0.203350 seconds.
-cloud 307200
-530 mouse : 46%
-536 cell phone : 36%
-550 cup : 73%
-574 mouse : 39%
-750 laptop : 74%
-1368 laptop : 40%
-detect complete
-send complete
-------------148 one frame---------------
-Predicted in 0.087960 seconds.
-cloud 307200
-536 cell phone : 48%
-550 cup : 66%
-750 laptop : 67%
-1368 laptop : 38%
-detect complete
-send complete
-------------149 one frame---------------
-Predicted in 0.194131 seconds.
-cloud 307200
-536 cell phone : 35%
-550 cup : 59%
-750 laptop : 74%
-1368 laptop : 41%
-detect complete
-send complete
-------------150 one frame---------------
-Predicted in 0.088268 seconds.
-cloud 307200
-463 cell phone : 39%
-550 cup : 51%
-750 laptop : 64%
-1368 laptop : 41%
-detect complete
-send complete
-------------151 one frame---------------
-Predicted in 0.087857 seconds.
-cloud 307200
-536 cell phone : 37%
-550 cup : 45%
-750 laptop : 53%
-1368 laptop : 41%
-detect complete
-send complete
-------------152 one frame---------------
-Predicted in 0.148442 seconds.
-cloud 307200
-550 mouse : 35%
-750 laptop : 81%
-1368 laptop : 49%
-detect complete
-send complete
-------------153 one frame---------------
-Predicted in 0.088262 seconds.
-cloud 307200
-550 cup : 54%
-750 laptop : 71%
-1368 laptop : 37%
-detect complete
-send complete
-------------154 one frame---------------
-Predicted in 0.085006 seconds.
-cloud 307200
-463 bottle : 44%
-550 cup : 41%
-750 tvmonitor : 50%
-1049 laptop : 39%
-detect complete
-send complete
-------------155 one frame---------------
-Predicted in 0.087167 seconds.
-cloud 307200
-532 cell phone : 54%
-548 mouse : 43%
-550 cup : 57%
-750 tvmonitor : 37%
-768 laptop : 55%
-detect complete
-send complete
-------------156 one frame---------------
-Predicted in 0.086308 seconds.
-cloud 307200
-532 cell phone : 49%
-548 mouse : 38%
-550 cup : 79%
-749 laptop : 54%
-750 tvmonitor : 48%
-detect complete
-send complete
-------------157 one frame---------------
-Predicted in 0.087005 seconds.
-cloud 307200
-532 keyboard : 52%
-535 cell phone : 39%
-550 cup : 77%
-749 laptop : 47%
-750 tvmonitor : 52%
-detect complete
-send complete
-------------158 one frame---------------
-Predicted in 0.089778 seconds.
-cloud 307200
-548 mouse : 58%
-734 teddy bear : 41%
-750 tvmonitor : 52%
-768 laptop : 60%
-detect complete
-send complete
-------------159 one frame---------------
-Predicted in 0.088564 seconds.
-cloud 307200
-549 mouse : 38%
-769 laptop : 54%
-1387 laptop : 53%
-detect complete
-send complete
-------------160 one frame---------------
-Predicted in 0.087660 seconds.
-cloud 307200
-348 tvmonitor : 35%
-570 mouse : 36%
-706 pottedplant : 54%
-734 teddy bear : 48%
-750 tvmonitor : 41%
-769 laptop : 51%
-1387 laptop : 41%
-detect complete
-send complete
-------------161 one frame---------------
-Predicted in 0.087105 seconds.
-cloud 307200
-570 mouse : 50%
-706 pottedplant : 41%
-734 teddy bear : 43%
-769 laptop : 51%
-1387 laptop : 43%
-detect complete
-send complete
-------------162 one frame---------------
-Predicted in 0.087578 seconds.
-cloud 307200
-593 mouse : 45%
-706 pottedplant : 42%
-734 teddy bear : 38%
-769 laptop : 56%
-detect complete
-send complete
-------------163 one frame---------------
-Predicted in 0.089716 seconds.
-cloud 307200
-532 cell phone : 45%
-535 cell phone : 47%
-706 pottedplant : 46%
-769 laptop : 57%
-detect complete
-send complete
-------------164 one frame---------------
-Predicted in 0.088230 seconds.
-cloud 307200
-532 cell phone : 39%
-535 cell phone : 56%
-548 mouse : 44%
-549 mouse : 45%
-550 cup : 68%
-573 mouse : 53%
-706 pottedplant : 54%
-769 laptop : 58%
-detect complete
-send complete
-------------165 one frame---------------
-Predicted in 0.087410 seconds.
-cloud 307200
-532 cell phone : 38%
-535 cell phone : 51%
-549 mouse : 37%
-550 cup : 71%
-706 pottedplant : 38%
-769 laptop : 56%
-detect complete
-send complete
-------------166 one frame---------------
-Predicted in 0.086110 seconds.
-cloud 307200
-532 keyboard : 35%
-535 cell phone : 57%
-550 cup : 50%
-573 mouse : 40%
-706 pottedplant : 58%
-734 teddy bear : 36%
-769 laptop : 62%
-detect complete
-send complete
-------------167 one frame---------------
-Predicted in 0.086662 seconds.
-cloud 307200
-535 cell phone : 46%
-706 pottedplant : 55%
-749 laptop : 76%
-1368 laptop : 49%
-detect complete
-send complete
-------------168 one frame---------------
-Predicted in 0.088153 seconds.
-cloud 307200
-535 cell phone : 60%
-548 mouse : 38%
-550 cup : 39%
-573 mouse : 40%
-749 laptop : 70%
-1368 laptop : 45%
-detect complete
-send complete
-------------169 one frame---------------
-Predicted in 0.086901 seconds.
-cloud 307200
-512 cell phone : 44%
-535 cell phone : 64%
-706 pottedplant : 44%
-749 laptop : 78%
-detect complete
-send complete
-------------170 one frame---------------
-Predicted in 0.087187 seconds.
-cloud 307200
-446 cup : 41%
-512 cell phone : 42%
-535 cell phone : 60%
-550 cup : 39%
-706 pottedplant : 50%
-734 person : 39%
-749 laptop : 71%
-detect complete
-send complete
-------------171 one frame---------------
-Predicted in 0.084604 seconds.
-cloud 307200
-512 cell phone : 37%
-535 cell phone : 57%
-706 pottedplant : 38%
-749 laptop : 63%
-detect complete
-send complete
-------------172 one frame---------------
-Predicted in 0.087453 seconds.
-cloud 307200
-512 cell phone : 35%
-535 cell phone : 47%
-706 pottedplant : 44%
-734 teddy bear : 40%
-749 laptop : 69%
-detect complete
-send complete
-------------173 one frame---------------
-Predicted in 0.087805 seconds.
-cloud 307200
-529 mouse : 36%
-535 cell phone : 52%
-706 pottedplant : 44%
-749 laptop : 72%
-detect complete
-send complete
-------------174 one frame---------------
-Predicted in 0.088244 seconds.
-cloud 307200
-463 bottle : 36%
-528 mouse : 41%
-529 mouse : 40%
-535 cell phone : 47%
-706 pottedplant : 43%
-749 laptop : 71%
-detect complete
-send complete
-------------175 one frame---------------
-Predicted in 0.087235 seconds.
-cloud 307200
-487 keyboard : 40%
-515 cell phone : 36%
-529 cup : 39%
-749 laptop : 70%
-detect complete
-send complete
-------------176 one frame---------------
-Predicted in 0.089156 seconds.
-cloud 307200
-487 keyboard : 42%
-529 cup : 40%
-552 mouse : 37%
-748 laptop : 70%
-detect complete
-send complete
-------------177 one frame---------------
-Predicted in 0.087454 seconds.
-cloud 307200
-487 keyboard : 51%
-529 cup : 46%
-686 pottedplant : 50%
-1048 laptop : 68%
-detect complete
-send complete
-------------178 one frame---------------
-Predicted in 0.088105 seconds.
-cloud 307200
-487 keyboard : 46%
-529 cup : 53%
-686 pottedplant : 52%
-748 laptop : 76%
-detect complete
-send complete
-------------179 one frame---------------
-Predicted in 0.086966 seconds.
-cloud 307200
-487 keyboard : 36%
-686 pottedplant : 47%
-748 laptop : 68%
-detect complete
-send complete
-------------180 one frame---------------
-Predicted in 0.087249 seconds.
-cloud 307200
-487 keyboard : 39%
-515 cell phone : 49%
-552 cup : 41%
-686 pottedplant : 63%
-748 laptop : 67%
-detect complete
-send complete
-------------181 one frame---------------
-Predicted in 0.085384 seconds.
-cloud 307200
-487 keyboard : 46%
-492 cell phone : 44%
-514 cell phone : 44%
-686 pottedplant : 50%
-729 laptop : 68%
-1348 laptop : 40%
-detect complete
-send complete
-------------182 one frame---------------
-Predicted in 0.086147 seconds.
-cloud 307200
-487 keyboard : 42%
-492 cell phone : 40%
-686 pottedplant : 44%
-729 laptop : 61%
-detect complete
-send complete
-------------183 one frame---------------
-Predicted in 0.086509 seconds.
-cloud 307200
-487 keyboard : 39%
-514 cell phone : 45%
-686 pottedplant : 63%
-729 laptop : 76%
-1348 laptop : 37%
-detect complete
-send complete
-------------184 one frame---------------
-Predicted in 0.148290 seconds.
-cloud 307200
-443 bottle : 38%
-487 keyboard : 44%
-514 cell phone : 44%
-686 pottedplant : 54%
-729 laptop : 78%
-detect complete
-send complete
-------------185 one frame---------------
-Predicted in 0.136979 seconds.
-cloud 307200
-514 cell phone : 55%
-686 pottedplant : 66%
-729 laptop : 75%
-detect complete
-send complete
-------------186 one frame---------------
-Predicted in 0.086608 seconds.
-cloud 307200
-487 keyboard : 49%
-514 cell phone : 52%
-686 pottedplant : 45%
-729 laptop : 79%
-1348 laptop : 40%
-detect complete
-send complete
-------------187 one frame---------------
-Predicted in 0.087897 seconds.
-cloud 307200
-487 keyboard : 45%
-514 cell phone : 58%
-686 pottedplant : 44%
-729 laptop : 76%
-767 laptop : 35%
-1348 laptop : 37%
-detect complete
-send complete
-------------188 one frame---------------
-Predicted in 0.086293 seconds.
-cloud 307200
-508 mouse : 38%
-514 cell phone : 55%
-729 laptop : 77%
-1348 laptop : 36%
-detect complete
-send complete
-------------189 one frame---------------
-Predicted in 0.086333 seconds.
-cloud 307200
-508 mouse : 39%
-514 cell phone : 45%
-686 pottedplant : 65%
-729 laptop : 74%
-detect complete
-send complete
-------------190 one frame---------------
-Predicted in 0.195489 seconds.
-cloud 307200
-467 keyboard : 35%
-491 cell phone : 39%
-508 mouse : 55%
-509 cup : 49%
-514 cell phone : 44%
-532 mouse : 67%
-686 pottedplant : 40%
-729 laptop : 75%
-detect complete
-send complete
-------------191 one frame---------------
-Predicted in 0.128772 seconds.
-cloud 307200
-491 cell phone : 44%
-508 mouse : 48%
-514 cell phone : 40%
-532 mouse : 42%
-686 pottedplant : 58%
-729 laptop : 78%
-1348 laptop : 36%
-detect complete
-send complete
-------------192 one frame---------------
-Predicted in 0.087301 seconds.
-cloud 307200
-508 mouse : 54%
-514 cell phone : 42%
-532 mouse : 58%
-686 pottedplant : 54%
-729 laptop : 64%
-1348 laptop : 49%
-detect complete
-send complete
-------------193 one frame---------------
-Predicted in 0.087912 seconds.
-cloud 307200
-467 keyboard : 41%
-508 mouse : 44%
-514 cell phone : 52%
-532 mouse : 64%
-686 pottedplant : 59%
-729 laptop : 75%
-1348 laptop : 36%
-detect complete
-send complete
-------------194 one frame---------------
-Predicted in 0.084828 seconds.
-cloud 307200
-491 keyboard : 35%
-508 mouse : 52%
-514 cell phone : 53%
-532 mouse : 71%
-686 pottedplant : 50%
-748 laptop : 62%
-detect complete
-send complete
-------------195 one frame---------------
-Predicted in 0.087654 seconds.
-cloud 307200
-144 bottle : 36%
-491 cell phone : 39%
-494 cell phone : 45%
-508 mouse : 38%
-532 mouse : 67%
-687 pottedplant : 39%
-729 laptop : 51%
-1348 laptop : 39%
-detect complete
-send complete
-------------196 one frame---------------
-Predicted in 0.088123 seconds.
-cloud 307200
-491 cell phone : 37%
-508 mouse : 36%
-514 cell phone : 63%
-532 mouse : 57%
-687 pottedplant : 36%
-730 laptop : 47%
-748 laptop : 66%
-detect complete
-send complete
-------------197 one frame---------------
-Predicted in 0.086092 seconds.
-cloud 307200
-427 cup : 43%
-444 bottle : 53%
-494 cell phone : 49%
-532 mouse : 49%
-687 pottedplant : 42%
-730 laptop : 42%
-748 laptop : 55%
-detect complete
-send complete
-------------198 one frame---------------
-Predicted in 0.085968 seconds.
-cloud 307200
-427 cup : 44%
-494 cell phone : 49%
-509 cup : 45%
-532 mouse : 64%
-687 pottedplant : 45%
-729 laptop : 62%
-detect complete
-send complete
-------------199 one frame---------------
-Predicted in 0.087679 seconds.
-cloud 307200
-427 cup : 46%
-494 cell phone : 59%
-532 mouse : 58%
-687 pottedplant : 35%
-729 laptop : 76%
-detect complete
-send complete
-------------200 one frame---------------
-Predicted in 0.088065 seconds.
-cloud 307200
-427 cup : 42%
-494 cell phone : 54%
-532 mouse : 52%
-681 tvmonitor : 51%
-687 pottedplant : 39%
-729 laptop : 77%
-detect complete
-send complete
-------------201 one frame---------------
-Predicted in 0.088845 seconds.
-cloud 307200
-424 bottle : 41%
-494 cell phone : 63%
-532 mouse : 51%
-681 tvmonitor : 52%
-729 laptop : 70%
-detect complete
-send complete
-------------202 one frame---------------
-Predicted in 0.085129 seconds.
-cloud 307200
-427 cup : 39%
-494 cell phone : 49%
-531 mouse : 54%
-681 tvmonitor : 59%
-687 pottedplant : 39%
-729 laptop : 77%
-detect complete
-send complete
-------------203 one frame---------------
-Predicted in 0.090048 seconds.
-cloud 307200
-424 bottle : 44%
-468 keyboard : 37%
-494 cell phone : 61%
-509 cup : 41%
-531 cup : 46%
-681 tvmonitor : 62%
-687 pottedplant : 59%
-710 laptop : 71%
-748 laptop : 59%
-detect complete
-send complete
-------------204 one frame---------------
-Predicted in 0.085685 seconds.
-cloud 307200
-488 mouse : 37%
-494 cell phone : 59%
-531 cup : 35%
-667 pottedplant : 52%
-681 tvmonitor : 66%
-710 laptop : 77%
-748 laptop : 49%
-768 keyboard : 38%
-detect complete
-send complete
-------------205 one frame---------------
-Predicted in 0.085745 seconds.
-cloud 307200
-468 keyboard : 51%
-494 cell phone : 54%
-667 pottedplant : 41%
-681 tvmonitor : 43%
-710 laptop : 79%
-748 laptop : 45%
-detect complete
-send complete
-------------206 one frame---------------
-Predicted in 0.088315 seconds.
-cloud 307200
-468 keyboard : 41%
-494 cell phone : 48%
-667 pottedplant : 51%
-681 tvmonitor : 38%
-710 laptop : 78%
-728 laptop : 57%
-detect complete
-send complete
-------------207 one frame---------------
-Predicted in 0.085965 seconds.
-cloud 307200
-468 keyboard : 51%
-471 cell phone : 43%
-494 cell phone : 46%
-511 mouse : 43%
-667 pottedplant : 50%
-681 tvmonitor : 41%
-710 laptop : 79%
-detect complete
-send complete
-------------208 one frame---------------
-Predicted in 0.089617 seconds.
-cloud 307200
-407 cup : 43%
-468 keyboard : 36%
-494 cell phone : 56%
-511 mouse : 37%
-667 pottedplant : 52%
-710 laptop : 76%
-728 laptop : 62%
-detect complete
-send complete
-------------209 one frame---------------
-Predicted in 0.087398 seconds.
-cloud 307200
-448 keyboard : 36%
-494 cell phone : 63%
-511 mouse : 73%
-667 pottedplant : 67%
-710 laptop : 68%
-728 laptop : 53%
-detect complete
-send complete
-------------210 one frame---------------
-Predicted in 0.103959 seconds.
-cloud 307200
-407 cup : 53%
-448 keyboard : 41%
-511 mouse : 52%
-661 tvmonitor : 40%
-667 pottedplant : 58%
-709 laptop : 72%
-detect complete
-send complete
-------------211 one frame---------------
-Predicted in 0.089090 seconds.
-cloud 307200
-404 bottle : 36%
-407 cup : 48%
-448 keyboard : 39%
-473 cell phone : 35%
-511 donut : 43%
-661 tvmonitor : 56%
-667 pottedplant : 64%
-709 laptop : 73%
-detect complete
-send complete
-------------212 one frame---------------
-Predicted in 0.086893 seconds.
-cloud 307200
-448 keyboard : 41%
-690 laptop : 59%
-708 laptop : 61%
-detect complete
-send complete
-------------213 one frame---------------
-Predicted in 0.098405 seconds.
-cloud 307200
-448 keyboard : 49%
-473 cell phone : 39%
-690 laptop : 71%
-708 laptop : 69%
-detect complete
-send complete
-------------214 one frame---------------
-Predicted in 0.087283 seconds.
-cloud 307200
-387 cup : 36%
-448 keyboard : 37%
-473 cell phone : 42%
-490 mouse : 41%
-647 pottedplant : 36%
-689 laptop : 68%
-detect complete
-send complete
-------------215 one frame---------------
-Predicted in 0.085356 seconds.
-cloud 307200
-387 cup : 46%
-404 bottle : 44%
-473 cell phone : 50%
-490 mouse : 58%
-647 pottedplant : 38%
-689 laptop : 72%
-detect complete
-send complete
-------------216 one frame---------------
-Predicted in 0.085219 seconds.
-cloud 307200
-387 cup : 41%
-404 bottle : 40%
-474 cell phone : 47%
-490 mouse : 77%
-689 laptop : 71%
-1308 laptop : 40%
-detect complete
-send complete
-------------217 one frame---------------
-Predicted in 0.086412 seconds.
-cloud 307200
-387 cup : 49%
-427 keyboard : 57%
-490 mouse : 47%
-647 pottedplant : 36%
-689 laptop : 71%
-1308 laptop : 41%
-detect complete
-send complete
-------------218 one frame---------------
-Predicted in 0.086652 seconds.
-cloud 307200
-387 cup : 44%
-427 keyboard : 50%
-490 mouse : 57%
-647 pottedplant : 36%
-669 laptop : 43%
-708 laptop : 61%
-1073 keyboard : 37%
-detect complete
-send complete
-------------219 one frame---------------
-Predicted in 0.086186 seconds.
-cloud 307200
-384 bottle : 39%
-427 keyboard : 66%
-647 pottedplant : 40%
-669 laptop : 61%
-707 laptop : 50%
-1288 laptop : 38%
-detect complete
-send complete
-------------220 one frame---------------
-Predicted in 0.086832 seconds.
-cloud 307200
-84 toothbrush : 52%
-427 keyboard : 57%
-453 cell phone : 46%
-669 laptop : 73%
-detect complete
-send complete
-------------221 one frame---------------
-Predicted in 0.085648 seconds.
-cloud 307200
-427 keyboard : 54%
-453 cell phone : 52%
-470 mouse : 56%
-669 laptop : 77%
-687 laptop : 43%
-detect complete
-send complete
-------------222 one frame---------------
-Predicted in 0.086169 seconds.
-cloud 307200
-427 keyboard : 46%
-453 cell phone : 51%
-470 mouse : 61%
-669 laptop : 78%
-687 laptop : 45%
-1288 laptop : 39%
-detect complete
-send complete
-------------223 one frame---------------
-Predicted in 0.086994 seconds.
-cloud 307200
-407 keyboard : 44%
-668 laptop : 61%
-776 frisbee : 36%
-detect complete
-send complete
-------------224 one frame---------------
-Predicted in 0.139666 seconds.
-cloud 307200
-407 keyboard : 43%
-649 laptop : 56%
-687 laptop : 65%
-detect complete
-send complete
-------------225 one frame---------------
-Predicted in 0.085823 seconds.
-cloud 307200
-449 mouse : 47%
-649 laptop : 62%
-667 laptop : 52%
-1032 keyboard : 43%
-detect complete
-send complete
-------------226 one frame---------------
-Predicted in 0.085146 seconds.
-cloud 307200
-406 keyboard : 37%
-449 mouse : 43%
-648 laptop : 63%
-654 dog : 36%
-detect complete
-send complete
-------------227 one frame---------------
-Predicted in 0.087157 seconds.
-cloud 307200
-386 keyboard : 38%
-449 mouse : 73%
-648 laptop : 61%
-detect complete
-send complete
-------------228 one frame---------------
-Predicted in 0.165299 seconds.
-cloud 307200
-386 keyboard : 64%
-449 mouse : 39%
-667 laptop : 59%
-detect complete
-send complete
-------------229 one frame---------------
-Predicted in 0.085092 seconds.
-cloud 307200
-386 keyboard : 74%
-432 keyboard : 43%
-756 frisbee : 67%
-947 laptop : 56%
-detect complete
-send complete
-------------230 one frame---------------
-Predicted in 0.085267 seconds.
-cloud 307200
-646 laptop : 46%
-756 frisbee : 49%
-detect complete
-send complete
-------------231 one frame---------------
-Predicted in 0.087127 seconds.
-cloud 307200
-342 toothbrush : 52%
-428 mouse : 35%
-646 laptop : 46%
-detect complete
-send complete
-------------232 one frame---------------
-Predicted in 0.179895 seconds.
-cloud 307200
-322 toothbrush : 53%
-428 mouse : 41%
-646 laptop : 46%
-735 frisbee : 40%
-detect complete
-send complete
-------------233 one frame---------------
-Predicted in 0.087689 seconds.
-cloud 307200
-322 toothbrush : 53%
-365 keyboard : 48%
-735 frisbee : 36%
-detect complete
-send complete
-------------234 one frame---------------
-Predicted in 0.086438 seconds.
-cloud 307200
-322 toothbrush : 48%
-735 frisbee : 55%
-detect complete
-send complete
-------------235 one frame---------------
-Predicted in 0.087826 seconds.
-cloud 307200
-322 toothbrush : 41%
-735 frisbee : 36%
-detect complete
-send complete
-------------236 one frame---------------
-Predicted in 0.088515 seconds.
-cloud 307200
-322 toothbrush : 49%
-408 mouse : 38%
-735 frisbee : 36%
-detect complete
-send complete
-------------237 one frame---------------
-Predicted in 0.086126 seconds.
-cloud 307200
-735 frisbee : 72%
-detect complete
-send complete
-------------238 one frame---------------
-Predicted in 0.086674 seconds.
-cloud 307200
-321 toothbrush : 40%
-735 frisbee : 68%
-detect complete
-send complete
-------------239 one frame---------------
-Predicted in 0.087943 seconds.
-cloud 307200
-735 frisbee : 73%
-detect complete
-send complete
-------------240 one frame---------------
-Predicted in 0.086986 seconds.
-cloud 307200
-735 frisbee : 68%
-detect complete
-send complete
-------------241 one frame---------------
-Predicted in 0.086854 seconds.
-cloud 307200
-321 toothbrush : 44%
-407 mouse : 40%
-735 frisbee : 72%
-detect complete
-send complete
-------------242 one frame---------------
-Predicted in 0.086100 seconds.
-cloud 307200
-321 toothbrush : 60%
-735 frisbee : 63%
-detect complete
-send complete
-------------243 one frame---------------
-Predicted in 0.086844 seconds.
-cloud 307200
-321 toothbrush : 45%
-735 frisbee : 70%
-detect complete
-send complete
-------------244 one frame---------------
-Predicted in 0.087541 seconds.
-cloud 307200
-427 cup : 56%
-735 frisbee : 57%
-detect complete
-send complete
-------------245 one frame---------------
-Predicted in 0.085513 seconds.
-cloud 307200
-321 toothbrush : 44%
-388 cell phone : 38%
-427 mouse : 64%
-735 frisbee : 63%
-detect complete
-send complete
-------------246 one frame---------------
-Predicted in 0.086518 seconds.
-cloud 307200
-321 toothbrush : 37%
-427 mouse : 63%
-735 frisbee : 56%
-detect complete
-send complete
-------------247 one frame---------------
-Predicted in 0.087071 seconds.
-cloud 307200
-321 toothbrush : 39%
-427 mouse : 72%
-645 laptop : 43%
-735 frisbee : 66%
-detect complete
-send complete
-------------248 one frame---------------
-Predicted in 0.086697 seconds.
-cloud 307200
-321 toothbrush : 38%
-427 mouse : 67%
-755 frisbee : 43%
-detect complete
-send complete
-------------249 one frame---------------
-Predicted in 0.085319 seconds.
-cloud 307200
-321 toothbrush : 36%
-333 cup : 43%
-427 mouse : 75%
-645 laptop : 46%
-755 frisbee : 56%
-detect complete
-send complete
-------------250 one frame---------------
-Predicted in 0.085988 seconds.
-cloud 307200
-427 mouse : 64%
-detect complete
-send complete
-------------251 one frame---------------
-Predicted in 0.088171 seconds.
-cloud 307200
-427 mouse : 64%
-detect complete
-send complete
-------------252 one frame---------------
-Predicted in 0.087329 seconds.
-cloud 307200
-321 toothbrush : 39%
-427 mouse : 46%
-detect complete
-send complete
-------------253 one frame---------------
-Predicted in 0.087259 seconds.
-cloud 307200
-------------254 one frame---------------
-Predicted in 0.085990 seconds.
-cloud 307200
-645 laptop : 49%
-755 frisbee : 51%
-detect complete
-send complete
-------------255 one frame---------------
-Predicted in 0.084699 seconds.
-cloud 307200
-321 toothbrush : 42%
-334 person : 38%
-427 mouse : 37%
-755 frisbee : 75%
-detect complete
-send complete
-------------256 one frame---------------
-Predicted in 0.086929 seconds.
-cloud 307200
-321 toothbrush : 42%
-645 laptop : 49%
-755 frisbee : 38%
-detect complete
-send complete
-------------257 one frame---------------
-Predicted in 0.109053 seconds.
-cloud 307200
-321 toothbrush : 41%
-333 cup : 35%
-645 laptop : 48%
-755 frisbee : 37%
-detect complete
-send complete
-------------258 one frame---------------
-Predicted in 0.085601 seconds.
-cloud 307200
-333 cup : 49%
-335 person : 38%
-755 frisbee : 50%
-detect complete
-send complete
-------------259 one frame---------------
-Predicted in 0.183154 seconds.
-cloud 307200
-353 cup : 50%
-755 frisbee : 53%
-detect complete
-send complete
-------------260 one frame---------------
-Predicted in 0.085832 seconds.
-cloud 307200
-354 cup : 52%
-447 mouse : 53%
-detect complete
-send complete
-------------261 one frame---------------
-Predicted in 0.087393 seconds.
-cloud 307200
-325 bottle : 36%
-408 cell phone : 41%
-447 mouse : 37%
-detect complete
-send complete
-------------262 one frame---------------
-Predicted in 0.085446 seconds.
-cloud 307200
-346 cup : 37%
-408 cell phone : 35%
-447 mouse : 51%
-detect complete
-send complete
-------------263 one frame---------------
-Predicted in 0.086642 seconds.
-cloud 307200
-646 laptop : 52%
-detect complete
-send complete
-------------264 one frame---------------
-Predicted in 0.086912 seconds.
-cloud 307200
-648 laptop : 42%
-776 frisbee : 45%
-detect complete
-send complete
-------------265 one frame---------------
-Predicted in 0.086114 seconds.
-cloud 307200
-447 cup : 38%
-648 laptop : 52%
-detect complete
-send complete
-------------266 one frame---------------
-Predicted in 0.085674 seconds.
-cloud 307200
-375 cup : 43%
-447 cup : 41%
-648 laptop : 58%
-776 bowl : 51%
-detect complete
-send complete
-------------267 one frame---------------
-Predicted in 0.085952 seconds.
-cloud 307200
-386 keyboard : 35%
-648 laptop : 46%
-detect complete
-send complete
-------------268 one frame---------------
-Predicted in 0.086622 seconds.
-cloud 307200
-375 cup : 37%
-386 keyboard : 45%
-648 laptop : 47%
-796 frisbee : 35%
-detect complete
-send complete
-------------269 one frame---------------
-Predicted in 0.086308 seconds.
-cloud 307200
-88 mouse : 41%
-346 cup : 37%
-386 keyboard : 38%
-648 laptop : 59%
-detect complete
-send complete
-------------270 one frame---------------
-Predicted in 0.085899 seconds.
-cloud 307200
-386 keyboard : 46%
-428 cell phone : 38%
-648 laptop : 42%
-detect complete
-send complete
-------------271 one frame---------------
-Predicted in 0.086470 seconds.
-cloud 307200
-346 cup : 43%
-386 keyboard : 55%
-648 laptop : 48%
-796 frisbee : 60%
-detect complete
-send complete
-------------272 one frame---------------
-Predicted in 0.085488 seconds.
-cloud 307200
-373 cup : 48%
-386 keyboard : 43%
-648 laptop : 41%
-796 frisbee : 54%
-detect complete
-send complete
-------------273 one frame---------------
-Predicted in 0.090336 seconds.
-cloud 307200
-386 keyboard : 37%
-648 laptop : 49%
-796 frisbee : 48%
-detect complete
-send complete
-------------274 one frame---------------
-Predicted in 0.085809 seconds.
-cloud 307200
-386 keyboard : 39%
-796 frisbee : 53%
-detect complete
-send complete
-------------275 one frame---------------
-Predicted in 0.088346 seconds.
-cloud 307200
-373 cup : 40%
-796 frisbee : 37%
-detect complete
-send complete
-------------276 one frame---------------
-Predicted in 0.086249 seconds.
-cloud 307200
-373 cup : 43%
-796 frisbee : 62%
-detect complete
-send complete
-------------277 one frame---------------
-Predicted in 0.085098 seconds.
-cloud 307200
-796 frisbee : 51%
-detect complete
-send complete
-------------278 one frame---------------
-Predicted in 0.135443 seconds.
-cloud 307200
-677 bird : 46%
-1096 bowl : 47%
-detect complete
-send complete
-------------279 one frame---------------
-Predicted in 0.084301 seconds.
-cloud 307200
-657 bird : 47%
-1096 bowl : 37%
-detect complete
-send complete
-------------280 one frame---------------
-Predicted in 0.084957 seconds.
-cloud 307200
-657 bird : 44%
-796 frisbee : 41%
-detect complete
-send complete
-------------281 one frame---------------
-Predicted in 0.113394 seconds.
-cloud 307200
-406 keyboard : 40%
-677 bird : 46%
-1096 bowl : 40%
-detect complete
-send complete
-------------282 one frame---------------
-Predicted in 0.085395 seconds.
-cloud 307200
-364 toothbrush : 40%
-395 cup : 45%
-657 bird : 37%
-796 frisbee : 40%
-detect complete
-send complete
-------------283 one frame---------------
-Predicted in 0.087441 seconds.
-cloud 307200
-364 toothbrush : 35%
-395 cup : 56%
-406 keyboard : 42%
-467 mouse : 38%
-677 bird : 51%
-detect complete
-send complete
-------------284 one frame---------------
-Predicted in 0.085727 seconds.
-cloud 307200
-379 baseball bat : 39%
-395 cup : 37%
-406 keyboard : 39%
-467 mouse : 36%
-detect complete
-send complete
-------------285 one frame---------------
-Predicted in 0.085421 seconds.
-cloud 307200
-108 mouse : 39%
-367 cup : 44%
-406 keyboard : 37%
-detect complete
-send complete
-------------286 one frame---------------
-Predicted in 0.086886 seconds.
-cloud 307200
-367 cup : 41%
-395 dog : 50%
-detect complete
-send complete
-------------287 one frame---------------
-Predicted in 0.086918 seconds.
-cloud 307200
-395 dog : 39%
-detect complete
-send complete
-------------288 one frame---------------
-Predicted in 0.086336 seconds.
-cloud 307200
-367 cup : 39%
-445 cup : 42%
-1116 bowl : 50%
-detect complete
-send complete
-------------289 one frame---------------
-Predicted in 0.085913 seconds.
-cloud 307200
-367 cup : 45%
-406 keyboard : 37%
-486 mouse : 35%
-detect complete
-send complete
-------------290 one frame---------------
-Predicted in 0.085744 seconds.
-cloud 307200
-836 frisbee : 36%
-1136 bowl : 38%
-detect complete
-send complete
-------------291 one frame---------------
-Predicted in 0.085310 seconds.
-cloud 307200
-387 cup : 40%
-426 keyboard : 49%
-465 cup : 52%
-detect complete
-send complete
-------------292 one frame---------------
-Predicted in 0.088391 seconds.
-cloud 307200
-366 cup : 44%
-426 keyboard : 57%
-696 bird : 36%
-detect complete
-send complete
-------------293 one frame---------------
-Predicted in 0.085995 seconds.
-cloud 307200
-386 cup : 37%
-426 keyboard : 40%
-836 frisbee : 38%
-detect complete
-send complete
-------------294 one frame---------------
-Predicted in 0.086334 seconds.
-cloud 307200
-426 keyboard : 37%
-506 mouse : 56%
-detect complete
-send complete
-------------295 one frame---------------
-Predicted in 0.087830 seconds.
-cloud 307200
-------------296 one frame---------------
-Predicted in 0.087154 seconds.
-cloud 307200
-386 cup : 60%
-707 laptop : 41%
-856 orange : 39%
-detect complete
-send complete
-------------297 one frame---------------
-Predicted in 0.087378 seconds.
-cloud 307200
-386 cup : 38%
-detect complete
-send complete
-------------298 one frame---------------
-Predicted in 0.086171 seconds.
-cloud 307200
-406 cup : 42%
-detect complete
-send complete
-------------299 one frame---------------
-Predicted in 0.092577 seconds.
-cloud 307200
-406 cup : 51%
-detect complete
-send complete
-------------300 one frame---------------
-Predicted in 0.085943 seconds.
-cloud 307200
-426 cup : 60%
-465 book : 37%
-detect complete
-send complete
-------------301 one frame---------------
-Predicted in 0.085134 seconds.
-cloud 307200
-------------302 one frame---------------
-Predicted in 0.086039 seconds.
-cloud 307200
-1176 bowl : 47%
-detect complete
-send complete
-------------303 one frame---------------
-Predicted in 0.203897 seconds.
-cloud 307200
-------------304 one frame---------------
-Predicted in 0.086389 seconds.
-cloud 307200
-757 teddy bear : 43%
-1176 bowl : 37%
-detect complete
-send complete
-------------305 one frame---------------
-Predicted in 0.086511 seconds.
-cloud 307200
-426 cup : 38%
-757 teddy bear : 38%
-detect complete
-send complete
-------------306 one frame---------------
-Predicted in 0.182069 seconds.
-cloud 307200
-446 cup : 51%
-475 dog : 53%
-detect complete
-send complete
-------------307 one frame---------------
-Predicted in 0.086349 seconds.
-cloud 307200
-446 cup : 36%
-748 laptop : 37%
-757 teddy bear : 51%
-detect complete
-send complete
-------------308 one frame---------------
-Predicted in 0.086843 seconds.
-cloud 307200
-446 cup : 38%
-757 teddy bear : 51%
-detect complete
-send complete
-------------309 one frame---------------
-Predicted in 0.086382 seconds.
-cloud 307200
-------------310 one frame---------------
-Predicted in 0.168576 seconds.
-cloud 307200
-757 teddy bear : 41%
-786 laptop : 40%
-detect complete
-send complete
-------------311 one frame---------------
-Predicted in 0.087070 seconds.
-cloud 307200
-468 toothbrush : 37%
-495 cup : 38%
-1170 cell phone : 46%
-detect complete
-send complete
-------------312 one frame---------------
-Predicted in 0.085495 seconds.
-cloud 307200
-------------313 one frame---------------
-Predicted in 0.184248 seconds.
-cloud 307200
-466 cup : 54%
-detect complete
-send complete
-------------314 one frame---------------
-Predicted in 0.087090 seconds.
-cloud 307200
-466 cup : 39%
-563 mouse : 38%
-777 teddy bear : 37%
-detect complete
-send complete
-------------315 one frame---------------
-Predicted in 0.085562 seconds.
-cloud 307200
-------------316 one frame---------------
-Predicted in 0.140630 seconds.
-cloud 307200
-------------317 one frame---------------
-Predicted in 0.086412 seconds.
-cloud 307200
-------------318 one frame---------------
-Predicted in 0.327914 seconds.
-cloud 307200
-488 toothbrush : 40%
-798 bird : 40%
-detect complete
-send complete
-------------319 one frame---------------
-Predicted in 0.086608 seconds.
-cloud 307200
-487 cup : 38%
-488 toothbrush : 45%
-detect complete
-send complete
-------------320 one frame---------------
-Predicted in 0.085991 seconds.
-cloud 307200
-467 cup : 53%
-488 toothbrush : 47%
-798 teddy bear : 61%
-detect complete
-send complete
-------------321 one frame---------------
-Predicted in 0.087684 seconds.
-cloud 307200
-------------322 one frame---------------
-Predicted in 0.085890 seconds.
-cloud 307200
-1043 laptop : 36%
-detect complete
-send complete
-------------323 one frame---------------
-Predicted in 0.087832 seconds.
-cloud 307200
-467 cup : 48%
-488 toothbrush : 42%
-798 sheep : 37%
-detect complete
-send complete
-------------324 one frame---------------
-Predicted in 0.086851 seconds.
-cloud 307200
-467 cup : 35%
-487 cup : 45%
-1043 laptop : 46%
-detect complete
-send complete
-------------325 one frame---------------
-Predicted in 0.085963 seconds.
-cloud 307200
-487 cup : 41%
-1023 laptop : 37%
-detect complete
-send complete
-------------326 one frame---------------
-Predicted in 0.085718 seconds.
-cloud 307200
-564 mouse : 35%
-1024 laptop : 38%
-detect complete
-send complete
-------------327 one frame---------------
-Predicted in 0.088773 seconds.
-cloud 307200
-1024 laptop : 48%
-detect complete
-send complete
-------------328 one frame---------------
-Predicted in 0.085770 seconds.
-cloud 307200
-1024 tvmonitor : 52%
-detect complete
-send complete
-------------329 one frame---------------
-Predicted in 0.086742 seconds.
-cloud 307200
-798 bird : 47%
-1024 tvmonitor : 59%
-detect complete
-send complete
-------------330 one frame---------------
-Predicted in 0.087648 seconds.
-cloud 307200
-1024 laptop : 43%
-detect complete
-send complete
-------------331 one frame---------------
-Predicted in 0.087778 seconds.
-cloud 307200
-798 bird : 41%
-1024 laptop : 55%
-detect complete
-send complete
-------------332 one frame---------------
-Predicted in 0.160328 seconds.
-cloud 307200
-798 bird : 47%
-1024 laptop : 53%
-detect complete
-send complete
-------------333 one frame---------------
-Predicted in 0.086105 seconds.
-cloud 307200
-798 bird : 49%
-detect complete
-send complete
-------------334 one frame---------------
-Predicted in 0.253420 seconds.
-cloud 307200
-798 bird : 46%
-1024 laptop : 47%
-detect complete
-send complete
-------------335 one frame---------------
-Predicted in 0.087428 seconds.
-cloud 307200
-730 pottedplant : 41%
-798 bird : 60%
-1004 tvmonitor : 35%
-detect complete
-send complete
-------------336 one frame---------------
-Predicted in 0.087238 seconds.
-cloud 307200
-467 cup : 35%
-730 pottedplant : 45%
-798 bird : 51%
-1004 tvmonitor : 44%
-detect complete
-send complete
-------------337 one frame---------------
-Predicted in 0.249317 seconds.
-cloud 307200
-486 keyboard : 43%
-1004 laptop : 49%
-detect complete
-send complete
-------------338 one frame---------------
-Predicted in 0.087239 seconds.
-cloud 307200
-523 cup : 36%
-730 pottedplant : 46%
-778 bird : 38%
-1004 laptop : 62%
-detect complete
-send complete
-------------339 one frame---------------
-Predicted in 0.087959 seconds.
-cloud 307200
-486 keyboard : 48%
-730 pottedplant : 55%
-778 bird : 49%
-1004 laptop : 57%
-detect complete
-send complete
-------------340 one frame---------------
-Predicted in 0.084803 seconds.
-cloud 307200
-145 bottle : 36%
-447 cup : 36%
-730 pottedplant : 57%
-1004 laptop : 40%
-detect complete
-send complete
-------------341 one frame---------------
-Predicted in 0.087100 seconds.
-cloud 307200
-523 cup : 47%
-730 pottedplant : 61%
-1004 laptop : 37%
-detect complete
-send complete
-------------342 one frame---------------
-Predicted in 0.085284 seconds.
-cloud 307200
-145 bottle : 45%
-523 cup : 41%
-730 pottedplant : 58%
-1004 laptop : 39%
-detect complete
-send complete
-------------343 one frame---------------
-Predicted in 0.085340 seconds.
-cloud 307200
-145 bottle : 40%
-523 cup : 40%
-730 pottedplant : 64%
-detect complete
-send complete
-------------344 one frame---------------
-Predicted in 0.088663 seconds.
-cloud 307200
-145 bottle : 57%
-447 cup : 64%
-730 pottedplant : 56%
-778 bird : 39%
-detect complete
-send complete
-------------345 one frame---------------
-Predicted in 0.085220 seconds.
-cloud 307200
-447 cup : 43%
-523 cup : 42%
-730 pottedplant : 55%
-1004 laptop : 48%
-detect complete
-send complete
-------------346 one frame---------------
-Predicted in 0.086595 seconds.
-cloud 307200
-447 cup : 60%
-730 pottedplant : 62%
-778 bird : 49%
-1004 laptop : 35%
-detect complete
-send complete
-------------347 one frame---------------
-Predicted in 0.086208 seconds.
-cloud 307200
-447 cup : 49%
-523 cup : 35%
-730 pottedplant : 66%
-778 bird : 45%
-detect complete
-send complete
-------------348 one frame---------------
-Predicted in 0.086997 seconds.
-cloud 307200
-447 cup : 36%
-730 pottedplant : 57%
-778 bird : 56%
-detect complete
-send complete
-------------349 one frame---------------
-Predicted in 0.087237 seconds.
-cloud 307200
-778 bird : 53%
-detect complete
-send complete
-------------350 one frame---------------
-Predicted in 0.086663 seconds.
-cloud 307200
-447 cup : 55%
-710 pottedplant : 41%
-778 bird : 48%
-detect complete
-send complete
-------------351 one frame---------------
-Predicted in 0.086951 seconds.
-cloud 307200
-447 cup : 41%
-496 dog : 41%
-522 cup : 44%
-709 pottedplant : 58%
-778 bird : 48%
-detect complete
-send complete
-------------352 one frame---------------
-Predicted in 0.512548 seconds.
-cloud 307200
-710 pottedplant : 55%
-778 bird : 51%
-detect complete
-send complete
-------------353 one frame---------------
-Predicted in 0.091045 seconds.
-cloud 307200
-495 dog : 36%
-709 pottedplant : 59%
-758 teddy bear : 49%
-778 bird : 42%
-detect complete
-send complete
-------------354 one frame---------------
-Predicted in 0.087034 seconds.
-cloud 307200
-495 dog : 38%
-709 pottedplant : 68%
-778 bird : 44%
-detect complete
-send complete
-------------355 one frame---------------
-Predicted in 0.438561 seconds.
-cloud 307200
-124 bottle : 46%
-709 pottedplant : 67%
-detect complete
-send complete
-------------356 one frame---------------
-Predicted in 0.085823 seconds.
-cloud 307200
-124 bottle : 39%
-709 pottedplant : 81%
-778 bird : 39%
-detect complete
-send complete
-------------357 one frame---------------
-Predicted in 0.088740 seconds.
-cloud 307200
-709 pottedplant : 79%
-detect complete
-send complete
-------------358 one frame---------------
-Predicted in 0.085630 seconds.
-cloud 307200
-426 cup : 37%
-431 bottle : 41%
-709 pottedplant : 87%
-778 bird : 42%
-detect complete
-send complete
-------------359 one frame---------------
-Predicted in 0.086077 seconds.
-cloud 307200
-495 dog : 45%
-709 pottedplant : 70%
-detect complete
-send complete
-------------360 one frame---------------
-Predicted in 0.085708 seconds.
-cloud 307200
-123 bottle : 37%
-709 pottedplant : 68%
-detect complete
-send complete
-------------361 one frame---------------
-Predicted in 0.085678 seconds.
-cloud 307200
-709 pottedplant : 85%
-detect complete
-send complete
-------------362 one frame---------------
-Predicted in 0.088497 seconds.
-cloud 307200
-123 bottle : 50%
-709 pottedplant : 91%
-detect complete
-send complete
-------------363 one frame---------------
-Predicted in 0.086892 seconds.
-cloud 307200
-709 pottedplant : 83%
-detect complete
-send complete
-------------364 one frame---------------
-Predicted in 0.086952 seconds.
-cloud 307200
-425 cup : 41%
-709 pottedplant : 71%
-detect complete
-send complete
-------------365 one frame---------------
-Predicted in 0.089230 seconds.
-cloud 307200
-411 bottle : 36%
-426 cup : 49%
-709 pottedplant : 85%
-detect complete
-send complete
-------------366 one frame---------------
-Predicted in 0.087500 seconds.
-cloud 307200
-426 cup : 38%
-689 pottedplant : 76%
-detect complete
-send complete
-------------367 one frame---------------
-Predicted in 0.087102 seconds.
-cloud 307200
-406 bottle : 44%
-426 cup : 42%
-689 pottedplant : 74%
-758 bird : 52%
-detect complete
-send complete
-------------368 one frame---------------
-Predicted in 0.087526 seconds.
-cloud 307200
-411 bottle : 39%
-689 pottedplant : 75%
-758 bird : 53%
-detect complete
-send complete
-------------369 one frame---------------
-Predicted in 0.179648 seconds.
-cloud 307200
-411 bottle : 41%
-426 cup : 41%
-709 pottedplant : 78%
-758 person : 35%
-detect complete
-send complete
-------------370 one frame---------------
-Predicted in 0.085816 seconds.
-cloud 307200
-709 pottedplant : 74%
-detect complete
-send complete
-------------371 one frame---------------
-Predicted in 0.086660 seconds.
-cloud 307200
-411 bottle : 68%
-426 cup : 63%
-689 pottedplant : 89%
-detect complete
-send complete
-------------372 one frame---------------
-Predicted in 0.896504 seconds.
-cloud 307200
-411 bottle : 41%
-459 person : 45%
-690 pottedplant : 71%
-detect complete
-send complete
-------------373 one frame---------------
-Predicted in 0.096509 seconds.
-cloud 307200
-690 pottedplant : 53%
-detect complete
-send complete
-------------374 one frame---------------
-Predicted in 0.102452 seconds.
-cloud 307200
-407 cup : 40%
-690 pottedplant : 67%
-detect complete
-send complete
-------------375 one frame---------------
-Predicted in 0.082268 seconds.
-cloud 307200
-430 cup : 45%
-465 cell phone : 38%
-690 pottedplant : 82%
-detect complete
-send complete
-------------376 one frame---------------
-Predicted in 0.085984 seconds.
-cloud 307200
-86 bottle : 39%
-506 book : 38%
-691 pottedplant : 48%
-detect complete
-send complete
-------------377 one frame---------------
-Predicted in 0.084707 seconds.
-cloud 307200
-86 bottle : 55%
-671 pottedplant : 78%
-detect complete
-send complete
-------------378 one frame---------------
-Predicted in 0.083905 seconds.
-cloud 307200
-671 pottedplant : 78%
-detect complete
-send complete
-------------379 one frame---------------
-Predicted in 0.082684 seconds.
-cloud 307200
-86 bottle : 40%
-393 bottle : 35%
-462 cup : 36%
-671 pottedplant : 64%
-1175 banana : 36%
-detect complete
-send complete
-------------380 one frame---------------
-Predicted in 0.171124 seconds.
-cloud 307200
-426 keyboard : 37%
-671 pottedplant : 56%
-1175 banana : 42%
-detect complete
-send complete
-------------381 one frame---------------
-Predicted in 0.083385 seconds.
-cloud 307200
-671 pottedplant : 65%
-detect complete
-send complete
-------------382 one frame---------------
-Predicted in 0.083871 seconds.
-cloud 307200
-86 bottle : 42%
-411 vase : 42%
-443 cup : 36%
-691 pottedplant : 71%
-detect complete
-send complete
-------------383 one frame---------------
-Predicted in 0.082601 seconds.
-cloud 307200
-411 vase : 48%
-671 pottedplant : 73%
-detect complete
-send complete
-------------384 one frame---------------
-Predicted in 0.085861 seconds.
-cloud 307200
-86 bottle : 53%
-671 pottedplant : 66%
-1174 frisbee : 40%
-detect complete
-send complete
-------------385 one frame---------------
-Predicted in 0.250683 seconds.
-cloud 307200
-86 bottle : 47%
-411 vase : 40%
-672 pottedplant : 64%
-detect complete
-send complete
-------------386 one frame---------------
-Predicted in 0.192354 seconds.
-cloud 307200
-86 bottle : 44%
-487 book : 38%
-671 pottedplant : 78%
-detect complete
-send complete
-------------387 one frame---------------
-Predicted in 0.084325 seconds.
-cloud 307200
-86 bottle : 44%
-393 bottle : 39%
-672 pottedplant : 58%
-detect complete
-send complete
-------------388 one frame---------------
-Predicted in 0.088048 seconds.
-cloud 307200
-411 vase : 46%
-487 book : 44%
-671 pottedplant : 65%
-detect complete
-send complete
-------------389 one frame---------------
-Predicted in 0.087792 seconds.
-cloud 307200
-67 bottle : 39%
-671 pottedplant : 71%
-1154 frisbee : 59%
-detect complete
-send complete
-------------390 one frame---------------
-Predicted in 0.087410 seconds.
-cloud 307200
-671 pottedplant : 54%
-1154 frisbee : 65%
-detect complete
-send complete
-------------391 one frame---------------
-Predicted in 0.084588 seconds.
-cloud 307200
-373 bottle : 47%
-1154 frisbee : 63%
-detect complete
-send complete
-------------392 one frame---------------
-Predicted in 0.089434 seconds.
-cloud 307200
-651 pottedplant : 57%
-854 frisbee : 76%
-detect complete
-send complete
-------------393 one frame---------------
-Predicted in 0.086564 seconds.
-cloud 307200
-66 bottle : 44%
-391 cup : 46%
-651 pottedplant : 59%
-854 frisbee : 73%
-detect complete
-send complete
-------------394 one frame---------------
-Predicted in 0.086432 seconds.
-cloud 307200
-391 cup : 39%
-651 pottedplant : 53%
-834 frisbee : 79%
-detect complete
-send complete
-------------395 one frame---------------
-Predicted in 0.087272 seconds.
-cloud 307200
-651 pottedplant : 48%
-834 frisbee : 88%
-detect complete
-send complete
-------------396 one frame---------------
-Predicted in 0.085308 seconds.
-cloud 307200
-834 frisbee : 84%
-detect complete
-send complete
-------------397 one frame---------------
-Predicted in 0.087623 seconds.
-cloud 307200
-46 bottle : 54%
-651 pottedplant : 49%
-834 frisbee : 74%
-detect complete
-send complete
-------------398 one frame---------------
-Predicted in 0.086412 seconds.
-cloud 307200
-651 pottedplant : 66%
-834 frisbee : 62%
-detect complete
-send complete
-------------399 one frame---------------
-Predicted in 0.087230 seconds.
-cloud 307200
-651 pottedplant : 49%
-833 frisbee : 61%
-detect complete
-send complete
-------------400 one frame---------------
-Predicted in 0.084836 seconds.
-cloud 307200
-813 frisbee : 70%
-detect complete
-send complete
-------------401 one frame---------------
-Predicted in 0.087074 seconds.
-cloud 307200
-631 pottedplant : 44%
-813 frisbee : 80%
-detect complete
-send complete
-------------402 one frame---------------
-Predicted in 0.087019 seconds.
-cloud 307200
-46 bottle : 38%
-813 frisbee : 83%
-detect complete
-send complete
-------------403 one frame---------------
-Predicted in 0.086764 seconds.
-cloud 307200
-813 frisbee : 79%
-detect complete
-send complete
-------------404 one frame---------------
-Predicted in 0.193296 seconds.
-cloud 307200
-813 frisbee : 79%
-detect complete
-send complete
-------------405 one frame---------------
-Predicted in 0.088427 seconds.
-cloud 307200
-813 frisbee : 71%
-detect complete
-send complete
-------------406 one frame---------------
-Predicted in 0.086238 seconds.
-cloud 307200
-813 frisbee : 70%
-detect complete
-send complete
-------------407 one frame---------------
-Predicted in 0.086483 seconds.
-cloud 307200
-813 frisbee : 65%
-detect complete
-send complete
-------------408 one frame---------------
-Predicted in 0.122868 seconds.
-cloud 307200
-373 cup : 39%
-813 frisbee : 78%
-detect complete
-send complete
-------------409 one frame---------------
-Predicted in 0.086819 seconds.
-cloud 307200
-403 cup : 37%
-813 frisbee : 63%
-detect complete
-send complete
-------------410 one frame---------------
-Predicted in 0.086363 seconds.
-cloud 307200
-813 frisbee : 75%
-detect complete
-send complete
-------------411 one frame---------------
-Predicted in 0.086734 seconds.
-cloud 307200
-407 cell phone : 36%
-631 pottedplant : 52%
-813 frisbee : 74%
-detect complete
-send complete
-------------412 one frame---------------
-Predicted in 0.086602 seconds.
-cloud 307200
-26 bottle : 37%
-403 cup : 52%
-407 cell phone : 36%
-631 pottedplant : 48%
-813 frisbee : 73%
-detect complete
-send complete
-------------413 one frame---------------
-Predicted in 0.086019 seconds.
-cloud 307200
-403 cup : 46%
-793 frisbee : 74%
-detect complete
-send complete
-------------414 one frame---------------
-Predicted in 0.087823 seconds.
-cloud 307200
-26 bottle : 39%
-366 toothbrush : 36%
-403 cup : 49%
-793 frisbee : 88%
-detect complete
-send complete
-------------415 one frame---------------
-Predicted in 0.087924 seconds.
-cloud 307200
-26 bottle : 38%
-403 cup : 44%
-793 frisbee : 85%
-detect complete
-send complete
-------------416 one frame---------------
-Predicted in 0.086980 seconds.
-cloud 307200
-403 cup : 43%
-793 frisbee : 83%
-detect complete
-send complete
-------------417 one frame---------------
-Predicted in 0.086994 seconds.
-cloud 307200
-26 bottle : 35%
-403 cup : 57%
-793 frisbee : 84%
-detect complete
-send complete
-------------418 one frame---------------
-Predicted in 0.086169 seconds.
-cloud 307200
-793 frisbee : 77%
-detect complete
-send complete
-------------419 one frame---------------
-Predicted in 0.085142 seconds.
-cloud 307200
-793 frisbee : 77%
-detect complete
-send complete
-------------420 one frame---------------
-Predicted in 0.087872 seconds.
-cloud 307200
-793 frisbee : 62%
-detect complete
-send complete
-------------421 one frame---------------
-Predicted in 0.084566 seconds.
-cloud 307200
-793 frisbee : 49%
-detect complete
-send complete
-------------422 one frame---------------
-Predicted in 0.086018 seconds.
-cloud 307200
-351 cup : 40%
-384 cup : 50%
-773 frisbee : 72%
-detect complete
-send complete
-------------423 one frame---------------
-Predicted in 0.086532 seconds.
-cloud 307200
-347 toothbrush : 37%
-773 frisbee : 68%
-detect complete
-send complete
-------------424 one frame---------------
-Predicted in 0.352584 seconds.
-cloud 307200
-347 toothbrush : 35%
-387 sink : 44%
-773 frisbee : 70%
-detect complete
-send complete
-------------425 one frame---------------
-Predicted in 0.086447 seconds.
-cloud 307200
-347 toothbrush : 50%
-384 cup : 44%
-387 sink : 36%
-773 frisbee : 70%
-detect complete
-send complete
-------------426 one frame---------------
-Predicted in 0.087944 seconds.
-cloud 307200
-384 cup : 55%
-773 frisbee : 69%
-detect complete
-send complete
-------------427 one frame---------------
-Predicted in 0.086566 seconds.
-cloud 307200
-347 toothbrush : 36%
-384 cup : 44%
-773 frisbee : 78%
-detect complete
-send complete
-------------428 one frame---------------
-Predicted in 0.086805 seconds.
-cloud 307200
-347 toothbrush : 35%
-383 cup : 49%
-773 orange : 40%
-detect complete
-send complete
-------------429 one frame---------------
-Predicted in 0.085783 seconds.
-cloud 307200
-383 cup : 49%
-772 frisbee : 53%
-detect complete
-send complete
-------------430 one frame---------------
-Predicted in 0.107896 seconds.
-cloud 307200
-383 cup : 46%
-658 bird : 37%
-772 frisbee : 64%
-detect complete
-send complete
-------------431 one frame---------------
-Predicted in 0.087415 seconds.
-cloud 307200
-346 toothbrush : 35%
-383 cup : 64%
-772 frisbee : 59%
-detect complete
-send complete
-------------432 one frame---------------
-Predicted in 0.087658 seconds.
-cloud 307200
-328 person : 42%
-383 cup : 69%
-658 person : 40%
-772 frisbee : 77%
-detect complete
-send complete
-------------433 one frame---------------
-Predicted in 0.166340 seconds.
-cloud 307200
-328 person : 44%
-383 cup : 55%
-658 bird : 58%
-772 frisbee : 80%
-detect complete
-send complete
-------------434 one frame---------------
-Predicted in 0.088360 seconds.
-cloud 307200
-382 cup : 46%
-386 sink : 35%
-772 frisbee : 59%
-detect complete
-send complete
-------------435 one frame---------------
-Predicted in 0.136506 seconds.
-cloud 307200
-658 bird : 47%
-772 frisbee : 52%
-detect complete
-send complete
-------------436 one frame---------------
-Predicted in 0.086272 seconds.
-cloud 307200
-658 bird : 39%
-772 frisbee : 57%
-detect complete
-send complete
-------------437 one frame---------------
-Predicted in 0.087754 seconds.
-cloud 307200
-382 cup : 50%
-658 bird : 45%
-698 chair : 35%
-772 orange : 56%
-detect complete
-send complete
-------------438 one frame---------------
-Predicted in 0.085019 seconds.
-cloud 307200
-346 toothbrush : 36%
-382 cup : 64%
-771 frisbee : 59%
-detect complete
-send complete
-------------439 one frame---------------
-Predicted in 0.092980 seconds.
-cloud 307200
-771 frisbee : 66%
-detect complete
-send complete
-------------440 one frame---------------
-Predicted in 0.085953 seconds.
-cloud 307200
-771 frisbee : 68%
-detect complete
-send complete
-------------441 one frame---------------
-Predicted in 0.085722 seconds.
-cloud 307200
-771 frisbee : 69%
-detect complete
-send complete
-------------442 one frame---------------
-Predicted in 0.086295 seconds.
-cloud 307200
-771 frisbee : 73%
-detect complete
-send complete
-------------443 one frame---------------
-Predicted in 0.086681 seconds.
-cloud 307200
-385 sink : 37%
-658 bird : 38%
-771 frisbee : 76%
-detect complete
-send complete
-------------444 one frame---------------
-Predicted in 0.085479 seconds.
-cloud 307200
-381 cup : 38%
-771 frisbee : 65%
-detect complete
-send complete
-------------445 one frame---------------
-Predicted in 0.088595 seconds.
-cloud 307200
-771 frisbee : 70%
-detect complete
-send complete
-------------446 one frame---------------
-Predicted in 0.085479 seconds.
-cloud 307200
-658 bird : 38%
-771 frisbee : 71%
-detect complete
-send complete
-------------447 one frame---------------
-Predicted in 0.087250 seconds.
-cloud 307200
-771 frisbee : 58%
-791 orange : 53%
-detect complete
-send complete
-------------448 one frame---------------
-Predicted in 0.086550 seconds.
-cloud 307200
-25 person : 43%
-327 person : 37%
-791 frisbee : 77%
-detect complete
-send complete
-------------449 one frame---------------
-Predicted in 0.087618 seconds.
-cloud 307200
-25 person : 47%
-381 cup : 41%
-791 frisbee : 43%
-detect complete
-send complete
-------------450 one frame---------------
-Predicted in 0.086509 seconds.
-cloud 307200
-49 cup : 36%
-791 frisbee : 60%
-detect complete
-send complete
-------------451 one frame---------------
-Predicted in 0.086536 seconds.
-cloud 307200
-349 cup : 53%
-352 cup : 37%
-791 frisbee : 85%
-detect complete
-send complete
-------------452 one frame---------------
-Predicted in 0.105275 seconds.
-cloud 307200
-349 cup : 46%
-791 frisbee : 72%
-811 orange : 39%
-detect complete
-send complete
-------------453 one frame---------------
-Predicted in 0.087257 seconds.
-cloud 307200
-404 book : 38%
-791 frisbee : 81%
-detect complete
-send complete
-------------454 one frame---------------
-Predicted in 0.089556 seconds.
-cloud 307200
-404 book : 37%
-791 frisbee : 82%
-detect complete
-send complete
-------------455 one frame---------------
-Predicted in 0.315530 seconds.
-cloud 307200
-811 frisbee : 59%
-detect complete
-send complete
-------------456 one frame---------------
-Predicted in 0.205864 seconds.
-cloud 307200
-349 cup : 42%
-811 orange : 45%
-detect complete
-send complete
-------------457 one frame---------------
-Predicted in 0.085773 seconds.
-cloud 307200
-811 frisbee : 75%
-detect complete
-send complete
-------------458 one frame---------------
-Predicted in 0.085402 seconds.
-cloud 307200
-811 frisbee : 76%
-detect complete
-send complete
-------------459 one frame---------------
-Predicted in 0.086184 seconds.
-cloud 307200
-629 pottedplant : 43%
-810 frisbee : 81%
-detect complete
-send complete
-------------460 one frame---------------
-Predicted in 0.086937 seconds.
-cloud 307200
-810 frisbee : 79%
-detect complete
-send complete
-------------461 one frame---------------
-Predicted in 0.087208 seconds.
-cloud 307200
-810 frisbee : 78%
-detect complete
-send complete
-------------462 one frame---------------
-Predicted in 0.086830 seconds.
-cloud 307200
-678 teddy bear : 37%
-810 frisbee : 72%
-830 orange : 36%
-detect complete
-send complete
-------------463 one frame---------------
-Predicted in 0.086289 seconds.
-cloud 307200
-830 frisbee : 81%
-detect complete
-send complete
-------------464 one frame---------------
-Predicted in 0.084721 seconds.
-cloud 307200
-368 cup : 41%
-443 book : 41%
-830 frisbee : 68%
-detect complete
-send complete
-------------465 one frame---------------
-Predicted in 0.086351 seconds.
-cloud 307200
-830 frisbee : 81%
-detect complete
-send complete
-------------466 one frame---------------
-Predicted in 0.087897 seconds.
-cloud 307200
-850 frisbee : 73%
-detect complete
-send complete
-------------467 one frame---------------
-Predicted in 0.087699 seconds.
-cloud 307200
-1150 frisbee : 61%
-detect complete
-send complete
-------------468 one frame---------------
-Predicted in 0.085525 seconds.
-cloud 307200
-718 bird : 37%
-1150 frisbee : 57%
-detect complete
-send complete
-------------469 one frame---------------
-Predicted in 0.085892 seconds.
-cloud 307200
-371 bottle : 42%
-463 book : 41%
-718 teddy bear : 41%
-1150 frisbee : 44%
-detect complete
-send complete
-------------470 one frame---------------
-Predicted in 0.088819 seconds.
-cloud 307200
-------------471 one frame---------------
-Predicted in 0.084245 seconds.
-cloud 307200
-------------472 one frame---------------
-Predicted in 0.088673 seconds.
-cloud 307200
-372 bottle : 41%
-detect complete
-send complete
-------------473 one frame---------------
-Predicted in 0.094800 seconds.
-cloud 307200
-------------474 one frame---------------
-Predicted in 0.085639 seconds.
-cloud 307200
-392 bottle : 58%
-1171 orange : 43%
-detect complete
-send complete
-------------475 one frame---------------
-Predicted in 0.085994 seconds.
-cloud 307200
-409 cup : 47%
-671 pottedplant : 43%
-1171 orange : 51%
-detect complete
-send complete
-------------476 one frame---------------
-Predicted in 0.086323 seconds.
-cloud 307200
-671 pottedplant : 48%
-detect complete
-send complete
-------------477 one frame---------------
-Predicted in 0.089015 seconds.
-cloud 307200
-671 pottedplant : 46%
-detect complete
-send complete
-------------478 one frame---------------
-Predicted in 0.085798 seconds.
-cloud 307200
-93 bottle : 39%
-413 bottle : 52%
-671 pottedplant : 52%
-687 cell phone : 45%
-detect complete
-send complete
-------------479 one frame---------------
-Predicted in 0.086234 seconds.
-cloud 307200
-413 bottle : 61%
-detect complete
-send complete
-------------480 one frame---------------
-Predicted in 0.202088 seconds.
-cloud 307200
-320 person : 36%
-413 bottle : 72%
-detect complete
-send complete
-------------481 one frame---------------
-Predicted in 0.085464 seconds.
-cloud 307200
-321 chair : 36%
-413 bottle : 61%
-430 cup : 44%
-672 pottedplant : 38%
-1103 book : 36%
-detect complete
-send complete
-------------482 one frame---------------
-Predicted in 0.085659 seconds.
-cloud 307200
-413 bottle : 40%
-691 pottedplant : 50%
-1103 book : 41%
-detect complete
-send complete
-------------483 one frame---------------
-Predicted in 0.088203 seconds.
-cloud 307200
-320 person : 38%
-321 person : 61%
-692 pottedplant : 37%
-1103 book : 37%
-detect complete
-send complete
-------------484 one frame---------------
-Predicted in 0.085601 seconds.
-cloud 307200
-321 person : 52%
-------------485 one frame---------------
-Predicted in 0.085654 seconds.
-cloud 307200
-321 person : 45%
-434 bottle : 45%
-detect complete
-send complete
-------------486 one frame---------------
-Predicted in 0.085531 seconds.
-cloud 307200
-321 person : 37%
-322 person : 73%
-323 chair : 42%
-434 bottle : 57%
-693 pottedplant : 66%
-detect complete
-send complete
-------------487 one frame---------------
-Predicted in 0.089987 seconds.
-cloud 307200
-322 person : 49%
-323 chair : 42%
-434 bottle : 42%
-462 cup : 45%
-474 bowl : 45%
-711 pottedplant : 41%
-1103 cell phone : 47%
-detect complete
-send complete
-------------488 one frame---------------
-Predicted in 0.085265 seconds.
-cloud 307200
-322 person : 60%
-1104 cell phone : 53%
-detect complete
-send complete
-------------489 one frame---------------
-Predicted in 0.085943 seconds.
-cloud 307200
-322 person : 51%
-323 person : 48%
-481 mouse : 49%
-1104 cell phone : 37%
-detect complete
-send complete
-------------490 one frame---------------
-Predicted in 0.086991 seconds.
-cloud 307200
-322 person : 53%
-323 person : 53%
-463 cup : 44%
-481 mouse : 48%
-712 pottedplant : 38%
-1104 cell phone : 57%
-detect complete
-send complete
-------------491 one frame---------------
-Predicted in 0.086730 seconds.
-cloud 307200
-324 chair : 50%
-343 chair : 57%
-463 cup : 48%
-694 pottedplant : 46%
-712 pottedplant : 50%
-detect complete
-send complete
-------------492 one frame---------------
-Predicted in 0.086137 seconds.
-cloud 307200
-323 chair : 40%
-324 chair : 54%
-341 chair : 50%
-342 chair : 48%
-415 bottle : 51%
-481 mouse : 38%
-694 pottedplant : 36%
-detect complete
-send complete
-------------493 one frame---------------
-Predicted in 0.087291 seconds.
-cloud 307200
-324 chair : 49%
-341 chair : 47%
-342 chair : 43%
-415 bottle : 37%
-434 book : 40%
-437 cup : 45%
-463 cup : 56%
-694 pottedplant : 37%
-detect complete
-send complete
-------------494 one frame---------------
-Predicted in 0.195404 seconds.
-cloud 307200
-324 chair : 56%
-341 chair : 45%
-342 chair : 43%
-694 pottedplant : 50%
-709 chair : 40%
-detect complete
-send complete
-------------495 one frame---------------
-Predicted in 0.085787 seconds.
-cloud 307200
-324 chair : 56%
-501 mouse : 46%
-694 pottedplant : 38%
-712 pottedplant : 41%
-detect complete
-send complete
-------------496 one frame---------------
-Predicted in 0.085605 seconds.
-cloud 307200
-324 chair : 57%
-435 bottle : 41%
-451 cup : 38%
-456 cup : 46%
-694 pottedplant : 54%
-1124 cell phone : 50%
-detect complete
-send complete
-------------497 one frame---------------
-Predicted in 0.944175 seconds.
-cloud 307200
-323 chair : 39%
-324 chair : 52%
-435 bottle : 41%
-451 cup : 35%
-456 cup : 53%
-462 cup : 37%
-501 mouse : 45%
-694 pottedplant : 44%
-1124 cell phone : 61%
-detect complete
-send complete
-------------498 one frame---------------
-Predicted in 0.085121 seconds.
-cloud 307200
-324 chair : 59%
-341 chair : 46%
-342 chair : 37%
-462 cup : 48%
-475 bowl : 39%
-501 mouse : 54%
-694 pottedplant : 43%
-1124 cell phone : 60%
-detect complete
-send complete
-------------499 one frame---------------
-Predicted in 0.085649 seconds.
-cloud 307200
-322 chair : 36%
-323 chair : 41%
-324 chair : 53%
-435 bottle : 38%
-456 cup : 41%
-462 cup : 56%
-475 mouse : 44%
-694 pottedplant : 36%
-712 pottedplant : 37%
-1124 cell phone : 48%
-detect complete
-send complete
-------------500 one frame---------------
-Predicted in 0.087101 seconds.
-cloud 307200
-324 chair : 54%
-456 cup : 50%
-500 mouse : 35%
-694 pottedplant : 44%
-712 pottedplant : 36%
-1123 cell phone : 40%
-detect complete
-send complete
-------------501 one frame---------------
-Predicted in 0.107437 seconds.
-cloud 307200
-340 chair : 41%
-454 bottle : 43%
-476 cup : 64%
-494 mouse : 41%
-1162 cell phone : 39%
-detect complete
-send complete
-------------502 one frame---------------
-Predicted in 0.086623 seconds.
-cloud 307200
-340 chair : 39%
-341 chair : 46%
-342 chair : 55%
-343 chair : 47%
-476 cup : 62%
-713 pottedplant : 44%
-1162 cell phone : 45%
-detect complete
-send complete
-------------503 one frame---------------
-Predicted in 0.351725 seconds.
-cloud 307200
-340 chair : 38%
-341 chair : 40%
-342 chair : 49%
-343 chair : 63%
-476 cup : 59%
-501 cup : 37%
-514 mouse : 45%
-713 pottedplant : 39%
-748 toilet : 36%
+Predicted in 0.087448 seconds.
+cloud 307200
+208 mouse : 42%
+438 bottle : 52%
+506 keyboard : 53%
+513 book : 41%
+766 tvmonitor : 57%
+1395 person : 35%
 detect complete
 send complete
 
 Saving keyframe trajectory to KeyFrameTrajectory.txt ...
 
 trajectory saved!
-... logging to /home/lucky/.ros/log/d3ce237a-4b5d-11e8-a9f3-408d5c0ff33e/roslaunch-lucky-B85-D3V-A-12935.log
+... logging to /home/lucky/.ros/log/56a8b692-5014-11e8-bab4-408d5c0ff33e/roslaunch-lucky-B85-D3V-A-5883.log
 Checking log directory for disk usage. This may take awhile.
 Press Ctrl-C to interrupt
 Done checking log file disk usage. Usage is <1GB.
 ]2;/home/lucky/workspace/launch/bag_orb_slam.launch
-[1mstarted roslaunch server http://lucky-B85-D3V-A:41474/[0m
+[1mstarted roslaunch server http://lucky-B85-D3V-A:45452/[0m
 
 SUMMARY
 ========
@@ -4156,7 +879,7 @@ NODES
 [1mROS_MASTER_URI=http://localhost:11311[0m
 ]2;/home/lucky/workspace/launch/bag_orb_slam.launch http://localhost:11311
 core service [/rosout] found
-[1mprocess[slam2rgbd-1]: started with pid [12972][0m
+[1mprocess[slam2rgbd-1]: started with pid [5923][0m
 [slam2rgbd-1] killing on exit
 shutting down processing monitor...
 ... shutting down processing monitor complete
