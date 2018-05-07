@@ -44,12 +44,16 @@ n=${DataSet:21:1}
 Config=$(pwd)/Freiburg${n}.yaml
 
 {
-	sleep 11
+	sleep 20
 	roslaunch $Send dataset:=TUM sequence:=$DataSet time:=$Rate
 }&
 
 {
 	rosrun rviz rviz -d /home/lucky/.rviz/record.rviz
+}&
+
+{
+	python ros_screenshot.py
 }&
 
 roslaunch $Launch config:=$Config yolo_cfg:=$Yolo_Cfg yolo_weights:=$Yolo_Weights yolo_data:=$Yolo_Data yolo_label:=$Yolo_Label > bag.log
